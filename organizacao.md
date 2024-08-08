@@ -1,4 +1,4 @@
 # Comissão Organizadora da Elixir Curitiba
 
-- Adolfo Neto - PPGCA UTFPR e ELixir em Foco <https://adolfont.github.io/> <https://www.elixiremfoco.com/>
+- Adolfo Neto - PPGCA UTFPR e Elixir em Foco <https://adolfont.github.io/> <https://www.elixiremfoco.com/>
 - Vinícius Alonso -  PPGCA UTFPR <https://www.viniciusalonso.com/>
