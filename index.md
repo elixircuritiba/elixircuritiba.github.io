@@ -1,6 +1,6 @@
 🇧🇷 Guardem a data. Elixir Curitiba em 19/10/2024
 
-🇺🇸 Save the date. Elixir Curitiba on 10/19/2024
+🇺🇸 Save the date. Elixir Curitiba on October 19th, 2024
 
 Quer mais informações? Mande e-mail para adolfo.utfpr@gmail.com.
 
