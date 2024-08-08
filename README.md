@@ -1,2 +1,1 @@
-# elixircuritiba.github.io
-Elixir Curitiba
+# <elixircuritiba.github.io>
