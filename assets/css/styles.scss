@@ -1,0 +1,75 @@
+/* General body background and text colors */
+body {
+    background-color: #e5e5f7; /* Light purple background */
+    color: #4b0082; /* Indigo text color */
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #4b0082; /* Indigo headers */
+}
+
+/* Links */
+a {
+    color: #800080; /* Purple link color */
+}
+
+a:hover, a:focus {
+    color: #9932cc; /* Medium purple on hover/focus */
+}
+
+/* Navbar */
+.navbar {
+    background-color: #8a2be2; /* Blue violet navbar */
+}
+
+.navbar a {
+    color: #ffffff; /* White text in navbar */
+}
+
+/* Footer */
+.site-footer {
+    background-color: #4b0082; /* Indigo footer */
+    color: #ffffff; /* White text in footer */
+}
+
+/* Buttons */
+.btn {
+    background-color: #800080; /* Purple button background */
+    color: #ffffff; /* White button text */
+}
+
+.btn:hover, .btn:focus {
+    background-color: #9932cc; /* Medium purple on hover/focus */
+}
+
+/* Code blocks */
+code, pre {
+    background-color: #f3e5f5; /* Light purple code block background */
+    color: #4b0082; /* Indigo code text */
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 5px solid #800080; /* Purple border for blockquotes */
+    background-color: #f3e5f5; /* Light purple background */
+    color: #4b0082; /* Indigo text */
+}
+
+/* Table styling */
+table {
+    background-color: #f3e5f5; /* Light purple table background */
+    border: 1px solid #800080; /* Purple border */
+}
+
+th {
+    background-color: #9932cc; /* Medium purple table header */
+    color: #ffffff; /* White text */
+}
+
+td {
+    border: 1px solid #800080; /* Purple cell borders */
+    color: #4b0082; /* Indigo text */
+}
+
+/* Customize other elements as needed */
