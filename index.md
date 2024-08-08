@@ -17,6 +17,10 @@ Quer mais informações? Mande e-mail para adolfo.utfpr@gmail.com.
 
 
 
-
-
 [Comissão Organizadora](organizacao.md)
+
+Apoio:
+- [Trio Pagamentos](https://bit.ly/46Blavj)
+- [Podcast Elixir em Foco](https://bit.ly/4clOOpD)
+- [Emílias - Armação em Bits](https://bit.ly/46DJa0M)
+- [Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba](https://bit.ly/4dfARLe)
