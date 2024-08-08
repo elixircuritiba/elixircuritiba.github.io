@@ -1,4 +1,4 @@
-🇧🇷 Guardem a data. Elixir Curitiba em 19/10/2024
+🇧🇷 Guardem a data. Elixir Curitiba em 19/10/2024 - Manhã e Tarde
 
 🇺🇸 Save the date. Elixir Curitiba on October 19th, 2024
 
