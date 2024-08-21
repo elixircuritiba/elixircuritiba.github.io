@@ -1,6 +1,6 @@
-🇧🇷 Guardem a data. Elixir Curitiba em 19/10/2024 - Manhã e Tarde
+🇧🇷 Guardem a data. Elixir Curitiba em 26/10/2024 - Manhã e Tarde
 
-🇺🇸 Save the date. Elixir Curitiba on October 19th, 2024
+🇺🇸 Save the date. Elixir Curitiba on October 26th, 2024
 
 [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5)
 
