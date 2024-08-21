@@ -8,7 +8,7 @@ Local do evento: R. Pasteur, 463 - Batel, Curitiba - PR, 80250-104 (Escritório 
 
 Quer mais informações? Mande e-mail para adolfo.utfpr@gmail.com.
 
-<img src="https://github.com/user-attachments/assets/6aada0d3-0c0b-4a7e-8095-791929551207" alt="Data da Elixir Curitiba 2024" style="width: 70%;">
+<img src="images/ElixirCuritiba_SaveTheDate.png" alt="Data da Elixir Curitiba 2024" style="width: 70%;">
 
 
 <!-- 
