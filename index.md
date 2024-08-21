@@ -2,6 +2,8 @@
 
 🇺🇸 Save the date. Elixir Curitiba on October 26th, 2024
 
+[Interesse em participar da Elixir Curitiba](https://forms.gle/p91ccyq183za9Jap7)
+
 [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5)
 
 Local do evento: R. Pasteur, 463 - Batel, Curitiba - PR, 80250-104 (Escritório da Trio)
