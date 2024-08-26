@@ -31,3 +31,4 @@ Apoio:
 - [Podcast Elixir em Foco](https://bit.ly/4clOOpD)
 - [Emílias - Armação em Bits](https://bit.ly/46DJa0M)
 - [Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba](https://bit.ly/4dfARLe)
+- [Rede Emílias de Podcasts](https://fronteirases.github.io/redeemilias/)
