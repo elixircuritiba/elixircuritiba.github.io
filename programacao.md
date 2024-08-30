@@ -14,3 +14,5 @@ O time de Programação do projeto de extensão Emilias - Armação em Bits, da 
 
 <img src="images/palestrantes/Larissa_Behrens.jpeg" alt="Larissa Behrens" style="width: 30%;">
 
+Larissa Behrens Soares, 21 anos, é estudante de Engenharia Eletrônica na UTFPR, ativa em competições de programação como UTF.c, Maratona Feminina de Programação (MFP) e ICPC, tendo conquistado o 2° lugar de melhor time feminino do Brasil na Fase Zero da ICPC 2024 e o 19° na primeira fase da MFP 2024. É voluntária no projeto [Emílias - Armação em Bits](https://utfpr.curitiba.br/emilias/), atuando como líder dos times de Pesquisa e de Programação. Estagia em pesquisa e desenvolvimento de sistemas inteligentes para análise de dados.
+
