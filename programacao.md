@@ -1,4 +1,4 @@
-# Programação
+# Elixir Curitiba - Programação
 
 _Horário sujeito a modificações._
 
