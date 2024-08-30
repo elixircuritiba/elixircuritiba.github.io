@@ -1,8 +1,11 @@
 # Programação
 
+_Horário sujeito a modificações._
+
 | Hora de início  | Título da Atividade | Duração | Palestrante |  
 | ------------- | ------------- | ------------- | ------------- |
-| 09:00 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | Larissa Behrens |
+| 09:00 | Abertura do evento | 10 minutos | Adolfo Neto |
+| 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | Larissa Behrens Soares |
 
 
 
