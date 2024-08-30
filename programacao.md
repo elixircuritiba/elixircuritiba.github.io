@@ -1,5 +1,7 @@
 # Elixir Curitiba - Programação
 
+[Elixir Curitiba 2024](https://elixircuritiba.github.io/)
+
 _Horário sujeito a modificações._
 
 | Hora de início  | Título da Atividade | Duração | Palestrante |  
