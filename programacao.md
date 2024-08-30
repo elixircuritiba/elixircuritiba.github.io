@@ -10,10 +10,16 @@ _Horário sujeito a modificações._
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | Larissa Behrens Soares |
 
 
+## Títulos de palestras a serem anunciadas
 
-# Resumos
+- Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis
+- O que esperar do sistema de tipos em Elixir?
+- Multi-tarefas: se cercar vira hospício, se jogar lona vira circo!
 
-## Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR
+
+## Resumos
+
+### Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR
 
 O time de Programação do projeto de extensão Emílias - Armação em Bits, da UTFPR, tem promovido oficinas de programação competitiva para a comunidade universitária. As oficinas são abertas a todos os gêneros, com foco especial em atrair mulheres. Durante as atividades, explicamos a lógica de problemas utilizados em competições anteriores, especialmente na ICPC, e ensinamos técnicas eficientes de resolução, principalmente nas linguagens C++ e Python. Atualmente, o time conta com 7 voluntários e já realizou 3 oficinas até o final de agosto.
 
