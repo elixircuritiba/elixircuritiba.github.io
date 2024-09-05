@@ -2,6 +2,8 @@
 
 [Você tem interesse em participar da Elixir Curitiba? Preencha este formulário!](https://forms.gle/p91ccyq183za9Jap7)
 
+A [programação (ainda sujeita a modificações) está neste link (clique aqui)](.programacao.md)
+
 <!-- [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5) -->
 
 Local do evento: R. Pasteur, 463 - Batel, Curitiba - PR, 80250-104 (Escritório da Trio)
