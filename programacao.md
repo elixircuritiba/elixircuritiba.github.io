@@ -28,3 +28,22 @@ O time de Programação do projeto de extensão Emílias - Armação em Bits, da
 
 Larissa Behrens Soares, 21 anos, é estudante de Engenharia Eletrônica na UTFPR, ativa em competições de programação como UTF.c, Maratona Feminina de Programação (MFP) e ICPC, tendo conquistado o 2° lugar de melhor time feminino do Brasil na Fase Zero da ICPC 2024 e o 19° na primeira fase da MFP 2024. É voluntária no projeto [Emílias - Armação em Bits](https://utfpr.curitiba.br/emilias/), atuando como líder dos times de Pesquisa e de Programação. Estagia em pesquisa e desenvolvimento de sistemas inteligentes para análise de dados.
 
+### Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis
+
+À medida em que os sistemas distribuídos se tornam mais complexos, os desenvolvedores enfrentam desafios crescentes na gestão da infraestrutura, mantendo o foco na lógica de negócios. O [Spawn](https://github.com/eigr/spawn), um projeto de código aberto baseado no modelo de atores, oferece uma solução ao abstrair as complexidades da gestão de infraestrutura, permitindo que os desenvolvedores construam sistemas escaláveis e resilientes com facilidade.
+
+Nesta apresentação, exploraremos como o Spawn fornece uma camada poderosa de abstração sobre a infraestrutura subjacente, permitindo uma implantação e operação simplificadas em ambientes nativos da nuvem, como o Kubernetes. Com suas capacidades poliglotas, o Spawn permite que equipes utilizem múltiplas linguagens de programação dentro do mesmo sistema, quebrando barreiras linguísticas e promovendo a colaboração entre equipes de desenvolvimento diversas.
+
+Os principais tópicos incluem:
+
+- A abstração de infraestrutura proporcionada pelo Spawn e seu impacto no design de sistemas.
+- Como o Spawn simplifica a implantação e escalabilidade de sistemas distribuídos.
+- Os benefícios da programação poliglota no desenvolvimento de software moderno.
+- Exemplos práticos de uso do Spawn em aplicações do mundo real, destacando a facilidade de integração com ferramentas e serviços existentes.
+
+Seja você um entusiasta do Elixir ou alguém explorando o mundo dos sistemas distribuídos, esta palestra mostrará como o Spawn pode transformar a maneira como você aborda infraestrutura e desenvolvimento, capacitando-o a construir sistemas robustos e de fácil manutenção com o mínimo de sobrecarga.
+
+<img src="https://avatars.githubusercontent.com/u/342502?v=4" alt="Adriano Santos" style="width: 30%;">
+
+
+
