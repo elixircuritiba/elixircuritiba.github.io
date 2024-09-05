@@ -8,11 +8,10 @@ _Horário sujeito a modificações._
 | ------------- | ------------- | ------------- | ------------- |
 | 09:00 | Abertura do evento | 10 minutos | Adolfo Neto |
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | Larissa Behrens Soares |
-
+| 9:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | Adriano Santos |
 
 ## Títulos de palestras a serem anunciadas
 
-- Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis
 - O que esperar do sistema de tipos em Elixir?
 - Multi-tarefas: se cercar vira hospício, se jogar lona vira circo!
 
