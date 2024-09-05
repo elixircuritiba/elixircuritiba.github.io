@@ -45,5 +45,14 @@ Seja você um entusiasta do Elixir ou alguém explorando o mundo dos sistemas di
 
 <img src="https://avatars.githubusercontent.com/u/342502?v=4" alt="Adriano Santos" style="width: 30%;">
 
+Adriano Santos é desenvolvedor há 23 anos e, ao longo desse período, teve a oportunidade de contribuir para diversos projetos open-source. Ele participou ativamente de iniciativas como Apache Camel e Akka, além de ser um membro importante da comunidade Cloudstate, onde desenvolveu SDKs para várias linguagens. Adriano também contribui para o projeto Elixir gRPC, do qual recentemente se tornou um dos mantenedores.
+
+Desde a publicação do paper *A Berkeley View on Serverless Computing* em 2019, ele vem se dedicando à pesquisa e ao desenvolvimento de projetos de stateful computing e stateful serverless na comunidade Eigr. É co-criador da comunidade Eigr e mantenedor do projeto Spawn, cujo objetivo é simplificar o desenvolvimento de sistemas distribuídos poliglotas. Suas contribuições para a comunidade vão além do código; ele procura sempre compartilhar conhecimento e colaborar em projetos que acredita que possam fazer a diferença.
+
+Links:
+- <https://twitter.com/sleipni_r>
+- <https://github.com/sleipnir>
+- <https://linkedin.com/in/adriano-santos-67367217>
+
 
 
