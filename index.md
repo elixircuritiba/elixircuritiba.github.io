@@ -12,7 +12,7 @@ Quer mais informações? Mande e-mail para adolfo.utfpr@gmail.com ou mensagem di
 
 Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
-<img src="images/elixircuritibalogo.png" alt="Elixir Curitiba 2024" style="width: 50%;">
+<img src="images/Sympla.jpeg" alt="Elixir Curitiba 2024" style="width: 50%;">
 
 
 
