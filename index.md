@@ -19,7 +19,7 @@ Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
 <!-- 
 
-<img src="images/ElixirCuritiba_SaveTheDate.png" alt="Data da Elixir Curitiba 2024" style="width: 70%;">
+<img src="images/Sympla.jpeg" alt="Dados sobre a Elixir Curitiba 2024" style="width: 70%;">
 
 ![Data da Elixir Curitiba 2024](https://github.com/user-attachments/assets/6aada0d3-0c0b-4a7e-8095-791929551207)
 -->
