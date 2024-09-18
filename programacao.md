@@ -10,7 +10,8 @@ _Horário sujeito a modificações._
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | Larissa Behrens Soares |
 | 9:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | Adriano Santos |
 | 10:00 | Intervalo | 15 minutos | _Networking_ |
-| 10:40 | O que esperar do sistema de tipos em Elixir? | 40 minutos |  _Aguarde_ |
+| 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  Vinicius Alonso |
+| 11:10 | Intervalo | 10 minutos | _Networking_ |
 | 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | _Aguarde_ |
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | A definir |||
@@ -71,3 +72,5 @@ Nessa apresentação vamos entender o sistema de tipos que será adicionado à l
 <img src="images/palestrantes/Vinicius_Alonso.jpeg" alt="Vinicius Alonso" style="width: 30%;">
 
 Vinicius é Mestrando em Computação Aplicada ([PPGCA UTFPR Curitiba](https://www.utfpr.edu.br/cursos/mestrado-e-doutorado/ppgca-ct)) e Graduado em Tecnologia em Sistemas para a Internet (UTFPR Guarapuava). Tem 10 anos de experiência trabalhando com desenvolvimento de software. Atualmente trabalha como engenheiro de software na empresa Sólides.
+
+- <https://www.linkedin.com/in/viniciusbalonso/>
