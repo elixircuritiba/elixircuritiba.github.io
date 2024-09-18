@@ -63,3 +63,11 @@ Links:
 
 
 
+### O que esperar do sistema de tipos em Elixir?
+
+Nessa apresentação vamos entender o sistema de tipos que será adicionado à linguagem de programação Elixir. Entenderemos os motivos que levaram a essa mudança e analisaremos exemplos de código de como tipos em Elixir deverão funcionar no futuro.
+
+
+<img src="images/palestrantes/Vinicius_Alonso.jpeg" alt="Vinicius Alonso" style="width: 30%;">
+
+Vinicius é Mestrando em Computação Aplicada ([PPGCA UTFPR Curitiba](https://www.utfpr.edu.br/cursos/mestrado-e-doutorado/ppgca-ct)) e Graduado em Tecnologia em Sistemas para a Internet (UTFPR Guarapuava). Tem 10 anos de experiência trabalhando com desenvolvimento de software. Atualmente trabalha como engenheiro de software na empresa Sólides.
