@@ -20,11 +20,7 @@ _Horário sujeito a modificações._
 
 
 
-## Títulos de palestras a serem anunciadas
 
-- Multi-tarefas: se cercar vira hospício, se jogar lona vira circo!
-
-E mais duas outras
 
 ## Resumos
 
