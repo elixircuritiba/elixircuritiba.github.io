@@ -15,8 +15,9 @@ _Horário sujeito a modificações._
 | 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | [Kelvin Stinghen](https://github.com/kelvinst) |
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | A definir | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
-| 15:00 | A definir |||
-| 16:00 | A definir |||
+| 15:00 | Intervalo |||
+| 15:30 | A definir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
+
 
 
 ## Títulos de palestras a serem anunciadas
