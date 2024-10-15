@@ -8,7 +8,7 @@ _Horário sujeito a modificações._
 | ------------- | ------------- | ------------- | ------------- |
 | 09:00 | Abertura do evento | 10 minutos | [Adolfo Neto](https://adolfont.github.io/) |
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | [Larissa Behrens Soares](https://www.linkedin.com/in/larissa-behrens-soares) |
-| 9:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | [Adriano Santos](https://open.spotify.com/episode/6bXRBla7qIrqAuQGhDEXLR) |
+| 09:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | [Adriano Santos](https://open.spotify.com/episode/6bXRBla7qIrqAuQGhDEXLR) |
 | 10:00 | Intervalo | 15 minutos |  |
 | 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  [Vinicius Alonso](https://www.linkedin.com/in/davidalencar) |
 | 11:10 | Intervalo | 10 minutos |  |
@@ -23,6 +23,18 @@ _Horário sujeito a modificações._
 
 
 ## Resumos
+
+### Abertura
+
+<img src="[images/palestrantes/Larissa_Behrens.jpeg](https://adolfont.github.io/images/AdolfoNeto_240x240.jpg)" alt="Adolfo Neto" style="width: 30%;">
+
+Adolfo Neto é professor associado na Universidade Tecnológica Federal do Paraná. Sua área de pesquisa é Engenharia de Software, e seu principal objetivo de pesquisa é ajudar os desenvolvedores a facilitar o compartilhamento de conhecimento e a aquisição de expertise tanto científica quanto prática.
+
+
+
+
+
+
 
 ### Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR
 
