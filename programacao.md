@@ -12,9 +12,9 @@ _Horário sujeito a modificações._
 | 10:00 | Intervalo | 15 minutos | _Networking_ |
 | 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  Vinicius Alonso |
 | 11:10 | Intervalo | 10 minutos | _Networking_ |
-| 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | _Aguarde_ |
+| 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos |Kelvin Stinghen |
 | 12:00 | Intervalo para almoço | 2 horas | |
-| 14:00 | A definir |||
+| 14:00 | A definir | 40 minutos | Kelvin Stinghen |
 | 15:00 | A definir |||
 | 16:00 | A definir |||
 
