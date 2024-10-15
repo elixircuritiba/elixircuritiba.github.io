@@ -92,6 +92,22 @@ Nessa apresentação vamos entender o sistema de tipos que será adicionado à l
 
 <img src="images/palestrantes/Vinicius_Alonso.jpeg" alt="Vinicius Alonso" style="width: 30%;">
 
-Vinicius é Mestrando em Computação Aplicada ([PPGCA UTFPR Curitiba](https://www.utfpr.edu.br/cursos/mestrado-e-doutorado/ppgca-ct)) e Graduado em Tecnologia em Sistemas para a Internet (UTFPR Guarapuava). Tem 10 anos de experiência trabalhando com desenvolvimento de software. Atualmente trabalha como engenheiro de software na empresa Sólides.
+Vinicius Alonso é Mestrando em Computação Aplicada ([PPGCA UTFPR Curitiba](https://www.utfpr.edu.br/cursos/mestrado-e-doutorado/ppgca-ct)) e Graduado em Tecnologia em Sistemas para a Internet (UTFPR Guarapuava). Tem 10 anos de experiência trabalhando com desenvolvimento de software. Atualmente trabalha como engenheiro de software na empresa Sólides.
 
 - <https://www.linkedin.com/in/viniciusbalonso/>
+
+
+### Multi-tarefas: se cercar vira hospício, se jogar lona vira circo!
+
+As vezes (quase sempre), quando tentamos fazer muitas coisas ao mesmo tempo, acabamos fazendo a maior bagunça! E os computadores não são muito diferentes da gente não, afinal somos nós que programamos eles, e programar um sistema de alta concorrência é muito difícil. Bora usar um fun-project pra entender mais sobre isso, e como Elixir pode nos ajudar nesse desafio.
+
+<img src="https://avatars.githubusercontent.com/u/2791965?v=4" alt="Kelvin Stinghen" style="width: 30%;">
+
+
+
+- <https://github.com/kelvinst>
+- <https://instagram.com/kelvin.stinghen>
+- <https://www.twitch.tv/kelvinstin>
+
+Kelvin Stinghen é programador Elixir há 8 anos, apaixonado por open-source e atualmente abrindo sua própria software-house e dando mentorias para programadores de todos os níveis.
+
