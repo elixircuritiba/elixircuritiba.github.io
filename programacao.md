@@ -9,9 +9,9 @@ _Horário sujeito a modificações._
 | 09:00 | Abertura do evento | 10 minutos | [Adolfo Neto](https://adolfont.github.io/) |
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | [Larissa Behrens Soares](https://www.linkedin.com/in/larissa-behrens-soares) |
 | 9:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | [Adriano Santos](https://open.spotify.com/episode/6bXRBla7qIrqAuQGhDEXLR) |
-| 10:00 | Intervalo | 15 minutos | _Networking_ |
+| 10:00 | Intervalo | 15 minutos |  |
 | 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  [Vinicius Alonso](https://www.linkedin.com/in/davidalencar) |
-| 11:10 | Intervalo | 10 minutos | _Networking_ |
+| 11:10 | Intervalo | 10 minutos |  |
 | 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | [Kelvin Stinghen](https://github.com/kelvinst) |
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | A definir | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
