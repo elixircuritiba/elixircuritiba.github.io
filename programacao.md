@@ -26,7 +26,7 @@ _Horário sujeito a modificações._
 
 ### Abertura
 
-<img src="[images/palestrantes/Larissa_Behrens.jpeg](https://adolfont.github.io/images/AdolfoNeto_240x240.jpg)" alt="Adolfo Neto" style="width: 30%;">
+<img src="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg" alt="Adolfo Neto" style="width: 30%;">
 
 Adolfo Neto é professor associado na Universidade Tecnológica Federal do Paraná. Sua área de pesquisa é Engenharia de Software, e seu principal objetivo de pesquisa é ajudar os desenvolvedores a facilitar o compartilhamento de conhecimento e a aquisição de expertise tanto científica quanto prática.
 
