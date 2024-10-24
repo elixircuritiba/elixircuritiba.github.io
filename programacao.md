@@ -114,5 +114,8 @@ Kelvin Stinghen é programador Elixir há 8 anos, apaixonado por open-source e a
 
 A complexidade é uma característica intrínseca no desenvolvimento de sistemas conceituais, como o software, e subestimá-la só amplifica nossos desafios. Nesta palestra, vou compartilhar minha experiência como programador e como a busca pela simplicidade, paz e satisfação me conduziu à combinação de Domain-Driven Design (DDD) e Elixir, proporcionando um caminho mais leve e eficiente para o desenvolvimento
 
-David iniciou sua carreira como programador há mais de 15 anos, dedicando grande parte de sua trajetória a soluções financeiras, inclusive com passagem pela própria Microsoft. No entanto, sua busca por constante aprimoramento o levou a abraçar o mundo das tecnologias open source há mais de 4 anos, onde encontrou no Elixir uma nova paixão. Desde então, ele tem produzido conteúdos no YouTube, desenvolvido cursos e, atualmente, lidera a operação da Trio.
+<img src="images/palestrantes/David_Alencar.jpeg" alt="David Alencar" style="width: 30%;">
+
+
+[David Alencar](https://www.linkedin.com/in/davidalencar) iniciou sua carreira como programador há mais de 15 anos, dedicando grande parte de sua trajetória a soluções financeiras, inclusive com passagem pela própria Microsoft. No entanto, sua busca por constante aprimoramento o levou a abraçar o mundo das tecnologias open source há mais de 4 anos, onde encontrou no Elixir uma nova paixão. Desde então, ele tem produzido conteúdos no YouTube, desenvolvido cursos e, atualmente, lidera a operação da Trio.
 
