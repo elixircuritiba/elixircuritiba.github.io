@@ -16,7 +16,7 @@ _Horário sujeito a modificações._
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | A definir | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
 | 15:00 | Intervalo |||
-| 15:30 | A definir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
+| 15:30 | Como simplificar a construção de software com Elixir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
 
 
 
@@ -103,11 +103,16 @@ As vezes (quase sempre), quando tentamos fazer muitas coisas ao mesmo tempo, aca
 
 <img src="https://avatars.githubusercontent.com/u/2791965?v=4" alt="Kelvin Stinghen" style="width: 30%;">
 
-
-
 - <https://github.com/kelvinst>
 - <https://instagram.com/kelvin.stinghen>
 - <https://www.twitch.tv/kelvinstin>
 
 Kelvin Stinghen é programador Elixir há 8 anos, apaixonado por open-source e atualmente abrindo sua própria software-house e dando mentorias para programadores de todos os níveis.
+
+
+###  Como simplificar a construção de software com Elixir
+
+A complexidade é uma característica intrínseca no desenvolvimento de sistemas conceituais, como o software, e subestimá-la só amplifica nossos desafios. Nesta palestra, vou compartilhar minha experiência como programador e como a busca pela simplicidade, paz e satisfação me conduziu à combinação de Domain-Driven Design (DDD) e Elixir, proporcionando um caminho mais leve e eficiente para o desenvolvimento
+
+David iniciou sua carreira como programador há mais de 15 anos, dedicando grande parte de sua trajetória a soluções financeiras, inclusive com passagem pela própria Microsoft. No entanto, sua busca por constante aprimoramento o levou a abraçar o mundo das tecnologias open source há mais de 4 anos, onde encontrou no Elixir uma nova paixão. Desde então, ele tem produzido conteúdos no YouTube, desenvolvido cursos e, atualmente, lidera a operação da Trio.
 
