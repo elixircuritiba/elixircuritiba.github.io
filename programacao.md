@@ -21,25 +21,9 @@ _Horário sujeito a modificações._
 
 ### Abertura
 
-<!-- 
-
-- Por que Elixir?
-- Elixir na sua empresa!
-- Erlang Ecosystem Foundation
-- Elixir em Foco
-- Rede Emílias de Podcasts
-- Emílias - Armação em Bits
-
-
--->
-
 <img src="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg" alt="Adolfo Neto" style="width: 30%;">
 
 Adolfo Neto é professor associado na Universidade Tecnológica Federal do Paraná. Sua área de pesquisa é Engenharia de Software, e seu principal objetivo de pesquisa é ajudar os desenvolvedores a facilitar o compartilhamento de conhecimento e a aquisição de expertise tanto científica quanto prática.
-
-
-
-
 
 
 
@@ -52,33 +36,13 @@ O time de Programação do projeto de extensão Emílias - Armação em Bits, da
 
 Larissa Behrens Soares, 21 anos, é estudante de Engenharia Eletrônica na UTFPR, ativa em competições de programação como UTF.c, Maratona Feminina de Programação (MFP) e ICPC, tendo conquistado o 2° lugar de melhor time feminino do Brasil na Fase Zero da ICPC 2024 e o 19° na primeira fase da MFP 2024. É voluntária no projeto [Emílias - Armação em Bits](https://utfpr.curitiba.br/emilias/), atuando como líder dos times de Pesquisa e de Programação. Estagia em pesquisa e desenvolvimento de sistemas inteligentes para análise de dados.
 
-### Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis
+### Recursos para o Ensino/Aprendizagem de Elixir
 
-À medida em que os sistemas distribuídos se tornam mais complexos, os desenvolvedores enfrentam desafios crescentes na gestão da infraestrutura, mantendo o foco na lógica de negócios. O [Spawn](https://github.com/eigr/spawn), um projeto de código aberto baseado no modelo de atores, oferece uma solução ao abstrair as complexidades da gestão de infraestrutura, permitindo que os desenvolvedores construam sistemas escaláveis e resilientes com facilidade.
+Nesta palestra, irei apresentar alguns recursos para o ensino/aprendizagem de Elixir (e Erlang).
 
-Nesta apresentação, exploraremos como o Spawn fornece uma camada poderosa de abstração sobre a infraestrutura subjacente, permitindo uma implantação e operação simplificadas em ambientes nativos da nuvem, como o Kubernetes. Com suas capacidades poliglotas, o Spawn permite que equipes utilizem múltiplas linguagens de programação dentro do mesmo sistema, quebrando barreiras linguísticas e promovendo a colaboração entre equipes de desenvolvimento diversas.
+<img src="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg" alt="Adolfo Neto" style="width: 30%;">
 
-Os principais tópicos incluem:
-
-- A abstração de infraestrutura proporcionada pelo Spawn e seu impacto no design de sistemas.
-- Como o Spawn simplifica a implantação e escalabilidade de sistemas distribuídos.
-- Os benefícios da programação poliglota no desenvolvimento de software moderno.
-- Exemplos práticos de uso do Spawn em aplicações do mundo real, destacando a facilidade de integração com ferramentas e serviços existentes.
-
-Seja você um entusiasta do Elixir ou alguém explorando o mundo dos sistemas distribuídos, esta palestra mostrará como o Spawn pode transformar a maneira como você aborda infraestrutura e desenvolvimento, capacitando-o a construir sistemas robustos e de fácil manutenção com o mínimo de sobrecarga.
-
-<img src="https://avatars.githubusercontent.com/u/342502?v=4" alt="Adriano Santos" style="width: 30%;">
-
-Adriano Santos é desenvolvedor há 23 anos e, ao longo desse período, teve a oportunidade de contribuir para diversos projetos open-source. Ele participou ativamente de iniciativas como Apache Camel e Akka, além de ser um membro importante da comunidade Cloudstate, onde desenvolveu SDKs para várias linguagens. Adriano também contribui para o projeto Elixir gRPC, do qual recentemente se tornou um dos mantenedores.
-
-Desde a publicação do paper *A Berkeley View on Serverless Computing* em 2019, ele vem se dedicando à pesquisa e ao desenvolvimento de projetos de stateful computing e stateful serverless na comunidade Eigr. É co-criador da comunidade Eigr e mantenedor do projeto Spawn, cujo objetivo é simplificar o desenvolvimento de sistemas distribuídos poliglotas. Suas contribuições para a comunidade vão além do código; ele procura sempre compartilhar conhecimento e colaborar em projetos que acredita que possam fazer a diferença.
-
-Links:
-- <https://twitter.com/sleipni_r>
-- <https://github.com/sleipnir>
-- <https://linkedin.com/in/adriano-santos-67367217>
-
-
+Adolfo Neto é professor associado na Universidade Tecnológica Federal do Paraná. Sua área de pesquisa é Engenharia de Software, e seu principal objetivo de pesquisa é ajudar os desenvolvedores a facilitar o compartilhamento de conhecimento e a aquisição de expertise tanto científica quanto prática.
 
 ### O que esperar do sistema de tipos em Elixir?
 
@@ -123,4 +87,35 @@ A complexidade é uma característica intrínseca no desenvolvimento de sistemas
 
 
 [David Alencar](https://www.linkedin.com/in/davidalencar) iniciou sua carreira como programador há mais de 15 anos, dedicando grande parte de sua trajetória a soluções financeiras, inclusive com passagem pela própria Microsoft. No entanto, sua busca por constante aprimoramento o levou a abraçar o mundo das tecnologias open source há mais de 4 anos, onde encontrou no Elixir uma nova paixão. Desde então, ele tem produzido conteúdos no YouTube, desenvolvido cursos e, atualmente, lidera a operação da Trio.
+
+
+## Palestra cancelada
+
+### Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis
+
+À medida em que os sistemas distribuídos se tornam mais complexos, os desenvolvedores enfrentam desafios crescentes na gestão da infraestrutura, mantendo o foco na lógica de negócios. O [Spawn](https://github.com/eigr/spawn), um projeto de código aberto baseado no modelo de atores, oferece uma solução ao abstrair as complexidades da gestão de infraestrutura, permitindo que os desenvolvedores construam sistemas escaláveis e resilientes com facilidade.
+
+Nesta apresentação, exploraremos como o Spawn fornece uma camada poderosa de abstração sobre a infraestrutura subjacente, permitindo uma implantação e operação simplificadas em ambientes nativos da nuvem, como o Kubernetes. Com suas capacidades poliglotas, o Spawn permite que equipes utilizem múltiplas linguagens de programação dentro do mesmo sistema, quebrando barreiras linguísticas e promovendo a colaboração entre equipes de desenvolvimento diversas.
+
+Os principais tópicos incluem:
+
+- A abstração de infraestrutura proporcionada pelo Spawn e seu impacto no design de sistemas.
+- Como o Spawn simplifica a implantação e escalabilidade de sistemas distribuídos.
+- Os benefícios da programação poliglota no desenvolvimento de software moderno.
+- Exemplos práticos de uso do Spawn em aplicações do mundo real, destacando a facilidade de integração com ferramentas e serviços existentes.
+
+Seja você um entusiasta do Elixir ou alguém explorando o mundo dos sistemas distribuídos, esta palestra mostrará como o Spawn pode transformar a maneira como você aborda infraestrutura e desenvolvimento, capacitando-o a construir sistemas robustos e de fácil manutenção com o mínimo de sobrecarga.
+
+<img src="https://avatars.githubusercontent.com/u/342502?v=4" alt="Adriano Santos" style="width: 30%;">
+
+Adriano Santos é desenvolvedor há 23 anos e, ao longo desse período, teve a oportunidade de contribuir para diversos projetos open-source. Ele participou ativamente de iniciativas como Apache Camel e Akka, além de ser um membro importante da comunidade Cloudstate, onde desenvolveu SDKs para várias linguagens. Adriano também contribui para o projeto Elixir gRPC, do qual recentemente se tornou um dos mantenedores.
+
+Desde a publicação do paper *A Berkeley View on Serverless Computing* em 2019, ele vem se dedicando à pesquisa e ao desenvolvimento de projetos de stateful computing e stateful serverless na comunidade Eigr. É co-criador da comunidade Eigr e mantenedor do projeto Spawn, cujo objetivo é simplificar o desenvolvimento de sistemas distribuídos poliglotas. Suas contribuições para a comunidade vão além do código; ele procura sempre compartilhar conhecimento e colaborar em projetos que acredita que possam fazer a diferença.
+
+Links:
+- <https://twitter.com/sleipni_r>
+- <https://github.com/sleipnir>
+- <https://linkedin.com/in/adriano-santos-67367217>
+
+
 
