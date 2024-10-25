@@ -19,11 +19,6 @@ _Horário sujeito a modificações._
 | 15:30 | Como simplificar a construção de software com Elixir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
 
 
-
-
-
-## Resumos
-
 ### Abertura
 
 <!-- 
