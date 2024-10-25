@@ -14,7 +14,7 @@ _Horário sujeito a modificações._
 | 11:10 | Intervalo | 10 minutos |  |
 | 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | [Kelvin Stinghen](https://github.com/kelvinst) |
 | 12:00 | Intervalo para almoço | 2 horas | |
-| 14:00 | A definir | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
+| 14:00 | Construindo um Helpdesk Inteligente: O Uso de Elixir para Transformação Social | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
 | 15:00 | Intervalo |||
 | 15:30 | Como simplificar a construção de software com Elixir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
 
@@ -108,6 +108,16 @@ As vezes (quase sempre), quando tentamos fazer muitas coisas ao mesmo tempo, aca
 - <https://www.twitch.tv/kelvinstin>
 
 Kelvin Stinghen é programador Elixir há 8 anos, apaixonado por open-source e atualmente abrindo sua própria software-house e dando mentorias para programadores de todos os níveis.
+
+
+### Construindo um Helpdesk Inteligente: O Uso de Elixir para Transformação Social
+
+Nesta palestra, Julia Mathias apresentará como o <Turn.io> utiliza Elixir para transformar a maneira como organizações sociais gerenciam suas comunicações. Focando no desenvolvimento de um helpdesk inteligente, Julia mostrará como a combinação do Elixir, Phoenix, e GenServers possibilitou a criação de um motor de roteamento eficiente, que distribui conversas automaticamente para operadores disponíveis. Através desse caso de uso, os participantes descobrirão como Elixir contribui para melhorar a eficiência e a escalabilidade dos serviços de atendimento, garantindo que as respostas cheguem a quem mais precisa — rapidamente e de forma humanizada.
+
+<img src="images/palestrantes/Julia_Mathias.jpeg" alt="Julia Mathias" style="width: 30%;">
+
+
+Julia Mathias atualmente atua como Software Engineer na Turn.io, uma parceira oficial do WhatsApp baseada na África do Sul, mas com clientes em todo o sul global. Julia descobriu Elixir no início da sua carreira em 2021 e passou pela Stone, Hightop e agora Turn.io. Com base no Rio de Janeiro, ela tem um interesse particular no uso do Elixir para construir aplicações resilientes e escaláveis, e acredita no poder da tecnologia para impulsionar mudanças sociais significativas. Quando não está programando ou viajando por algum lugar do mundo, Julia gosta de explorar suas paixões por escrita, especialmente poesia, ballet, e formula 1.
 
 
 ###  Como simplificar a construção de software com Elixir
