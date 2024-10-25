@@ -16,7 +16,7 @@ _Horário sujeito a modificações._
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | Construindo um Helpdesk Inteligente: O Uso de Elixir para Transformação Social | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
 | 15:00 | Intervalo |||
-| 15:30 | Como simplificar a construção de software com Elixir | 40 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
+| 15:30 | Como simplificar a construção de software com Elixir | 15 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
 
 
 ### Abertura
