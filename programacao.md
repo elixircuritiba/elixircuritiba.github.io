@@ -8,14 +8,14 @@ _Horário sujeito a modificações._
 | ------------- | ------------- | ------------- | ------------- |
 | 09:00 | Abertura do evento | 10 minutos | [Adolfo Neto](https://adolfont.github.io/) |
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | [Larissa Behrens Soares](https://www.linkedin.com/in/larissa-behrens-soares) |
-| 09:20 | Construindo Sistemas Distribuídos Poliglotas com Spawn: Infraestrutura Simplificada, Soluções Escaláveis |  40 minutos | [Adriano Santos](https://open.spotify.com/episode/6bXRBla7qIrqAuQGhDEXLR) |
-| 10:00 | Intervalo | 15 minutos |  |
+| 09:20 | Recursos para o Ensino/Aprendizagem de Elixir |  30 minutos | Adolfo Neto |
+| 10:00 | Intervalo | 40 minutos |  |
 | 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  [Vinicius Alonso](https://www.linkedin.com/in/davidalencar) |
 | 11:10 | Intervalo | 10 minutos |  |
 | 11:20 | Multi-tarefas: se cercar vira hospício, se jogar lona vira circo! | 40 minutos | [Kelvin Stinghen](https://github.com/kelvinst) |
 | 12:00 | Intervalo para almoço | 2 horas | |
 | 14:00 | Construindo um Helpdesk Inteligente: O Uso de Elixir para Transformação Social | 40 minutos | [Julia Mathias](https://open.spotify.com/episode/1UJbC2vF0CNR0b7MtUrXwE) |
-| 15:00 | Intervalo |||
+| 15:00 | Intervalo | 30 minutos ||
 | 15:30 | Como simplificar a construção de software com Elixir | 15 minutos | [David Alencar](https://www.linkedin.com/in/davidalencar) |
 
 
@@ -108,7 +108,7 @@ Seja você um entusiasta do Elixir ou alguém explorando o mundo dos sistemas di
 
 <img src="https://avatars.githubusercontent.com/u/342502?v=4" alt="Adriano Santos" style="width: 30%;">
 
-Adriano Santos é desenvolvedor há 23 anos e, ao longo desse período, teve a oportunidade de contribuir para diversos projetos open-source. Ele participou ativamente de iniciativas como Apache Camel e Akka, além de ser um membro importante da comunidade Cloudstate, onde desenvolveu SDKs para várias linguagens. Adriano também contribui para o projeto Elixir gRPC, do qual recentemente se tornou um dos mantenedores.
+[Adriano Santos](https://open.spotify.com/episode/6bXRBla7qIrqAuQGhDEXLR) é desenvolvedor há 23 anos e, ao longo desse período, teve a oportunidade de contribuir para diversos projetos open-source. Ele participou ativamente de iniciativas como Apache Camel e Akka, além de ser um membro importante da comunidade Cloudstate, onde desenvolveu SDKs para várias linguagens. Adriano também contribui para o projeto Elixir gRPC, do qual recentemente se tornou um dos mantenedores.
 
 Desde a publicação do paper *A Berkeley View on Serverless Computing* em 2019, ele vem se dedicando à pesquisa e ao desenvolvimento de projetos de stateful computing e stateful serverless na comunidade Eigr. É co-criador da comunidade Eigr e mantenedor do projeto Spawn, cujo objetivo é simplificar o desenvolvimento de sistemas distribuídos poliglotas. Suas contribuições para a comunidade vão além do código; ele procura sempre compartilhar conhecimento e colaborar em projetos que acredita que possam fazer a diferença.
 
