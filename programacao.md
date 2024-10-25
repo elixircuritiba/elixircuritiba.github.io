@@ -8,7 +8,7 @@ _Horário sujeito a modificações._
 | ------------- | ------------- | ------------- | ------------- |
 | 09:00 | Abertura do evento | 10 minutos | [Adolfo Neto](https://adolfont.github.io/) |
 | 09:10 | Incentivando a Programação Competitiva entre mulheres das áreas STEM na UTFPR | 10 minutos | [Larissa Behrens Soares](https://www.linkedin.com/in/larissa-behrens-soares) |
-| 09:20 | Recursos para o Ensino/Aprendizagem de Elixir |  30 minutos | Adolfo Neto |
+| 09:20 | Recursos para o Ensino/Aprendizagem de Elixir |  40 minutos | Adolfo Neto |
 | 10:00 | Intervalo | 40 minutos |  |
 | 10:40 | O que esperar do sistema de tipos em Elixir? | 20 minutos |  [Vinicius Alonso](https://www.linkedin.com/in/davidalencar) |
 | 11:10 | Intervalo | 10 minutos |  |
