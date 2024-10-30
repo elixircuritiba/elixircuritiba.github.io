@@ -3,6 +3,8 @@
 Site para inscrição: <https://www.sympla.com.br/evento/elixir-curitiba-2024/2613881>
 
 ➡️ [Programação da Elixir Curitiba](programacao.md)
+➡️ [Slides da Elixir Curitiba](./slides/)
+
 
 <!-- [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5) -->
 
@@ -30,6 +32,7 @@ Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
 Apoio:
 - [Trio Pagamentos](https://bit.ly/46Blavj)
+- [Turn.io](https://www.turn.io/)
 - [Podcast Elixir em Foco](https://bit.ly/4clOOpD)
 - [Emílias - Armação em Bits](https://bit.ly/46DJa0M)
 - [Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba](https://bit.ly/4dfARLe)
