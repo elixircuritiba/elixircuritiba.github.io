@@ -2,8 +2,8 @@
 
 Site para inscrição: <https://www.sympla.com.br/evento/elixir-curitiba-2024/2613881>
 
-➡️ [Programação da Elixir Curitiba](programacao.md)
-➡️ [Slides da Elixir Curitiba](./slides/)
+- [Programação da Elixir Curitiba](programacao.md)
+- [Slides da Elixir Curitiba](./slides/)
 
 
 <!-- [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5) -->
