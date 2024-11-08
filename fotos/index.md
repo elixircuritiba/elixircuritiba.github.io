@@ -6,7 +6,7 @@ Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos d
   <img src="/images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;">
 </center>
 
-Visão geral do espaço
+<center>Visão geral do espaço</center>
 
 <center>
   <img src="/images/fotos/02.JPG" alt="Foto da Elixir Curitiba 02" style="width: 80%;">
