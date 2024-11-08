@@ -1,6 +1,11 @@
 # Fotos da Elixir Curitiba 2024
 
+Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos da Elixir Curitiba 2024.
+
 <img src="/images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;">
+Visão geral do espaço
+
+
 <img src="/images/fotos/02.JPG" alt="Foto da Elixir Curitiba 02" style="width: 80%;">
 <img src="/images/fotos/03.JPG" alt="Foto da Elixir Curitiba 03" style="width: 80%;">
 <img src="/images/fotos/04.JPG" alt="Foto da Elixir Curitiba 04" style="width: 80%;">
