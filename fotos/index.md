@@ -1,6 +1,5 @@
 # Fotos da Elixir Curitiba 2024
 
-    <div class="photo-gallery">
         <img src="images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;">
         <img src="images/fotos/02.JPG" alt="Foto da Elixir Curitiba 02" style="width: 80%;">
         <img src="images/fotos/03.JPG" alt="Foto da Elixir Curitiba 03" style="width: 80%;">
@@ -14,4 +13,4 @@
         <img src="images/fotos/11.JPG" alt="Foto da Elixir Curitiba 11" style="width: 80%;">
         <img src="images/fotos/12.JPG" alt="Foto da Elixir Curitiba 12" style="width: 80%;">
         <img src="images/fotos/13.JPG" alt="Foto da Elixir Curitiba 13" style="width: 80%;">
-    </div>
+ 
