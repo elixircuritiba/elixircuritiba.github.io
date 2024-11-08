@@ -18,7 +18,7 @@ Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos d
   <img src="/images/fotos/03.JPG" alt="Foto da Elixir Curitiba 03" style="width: 80%;">
 </center>
 
-<center>Adolfo Neto - organizador do evento/center>
+<center>Adolfo Neto - organizador do evento</center>
 
 <center>
   <img src="/images/fotos/04.JPG" alt="Foto da Elixir Curitiba 04" style="width: 80%;">
