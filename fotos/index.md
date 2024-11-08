@@ -3,7 +3,7 @@
 Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos da Elixir Curitiba 2024.
 
 <center>
-<img src="/images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;">
+<img src="/images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;"></center>
 
 Visão geral do espaço
 
@@ -62,5 +62,3 @@ Matheus de Camargo Marques - vencedor do sorteio do livro de Lua - e Adolfo Neto
 
 Participantes no fim do evento
  
-
-</center>
