@@ -6,7 +6,6 @@ Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos d
 <img src="/images/fotos/01.JPG" alt="Foto da Elixir Curitiba 01" style="width: 80%;">
 
 Visão geral do espaço
-</center>
 
 <img src="/images/fotos/02.JPG" alt="Foto da Elixir Curitiba 02" style="width: 80%;">
 
@@ -63,3 +62,5 @@ Matheus de Camargo Marques - vencedor do sorteio do livro de Lua - e Adolfo Neto
 
 Participantes no fim do evento
  
+
+</center>
