@@ -36,7 +36,7 @@ Clique [aqui](https://bit.ly/3UsTRhX) para ver todas as fotos e alguns vídeos d
   <img src="/images/fotos/06.JPG" alt="Foto da Elixir Curitiba 06" style="width: 80%;">
 </center>
 
-<center>_Coffee break<_/center>
+<center>_Coffee break_</center>
 
 <center>
   <img src="/images/fotos/07.JPG" alt="Foto da Elixir Curitiba 07" style="width: 80%;">
