@@ -35,7 +35,7 @@ Junte-se a nós em Curitiba, Paraná, Brasil, no dia 26 de outubro de 2024, para
 ![Data da Elixir Curitiba 2024](https://github.com/user-attachments/assets/6aada0d3-0c0b-4a7e-8095-791929551207)
 -->
 
-
+Organizador: [Adolfo Neto](https://elixircuritiba.github.io/) - [DAINF UTFPR](https://dainf.ct.utfpr.edu.br/) e [PPGCA](https://www.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/ppgca-ct)
 
 [Comissão Organizadora](organizacao.md)
 
