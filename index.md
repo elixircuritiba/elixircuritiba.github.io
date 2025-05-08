@@ -20,7 +20,6 @@ A Elixir Curitiba aconteceu em Curitiba, Paraná, Brasil, no dia 26 de outubro d
 
 Local do evento: R. Pasteur, 463 - Batel, Curitiba - PR, 80250-104 (Escritório da Trio)
 
-Quer mais informações? Mande e-mail para adolfo.utfpr@gmail.com ou mensagem direta para adolfont no Telegram.
 
 Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
