@@ -9,6 +9,7 @@ Já tem ideia de palestra ou atividade? Quer patrocinar o evento? Quer ajudar a 
 
 - Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento.
 - Fernando Areias (estudante [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - voluntário
+- Adriano Santos - volunário
 
 # Sobre a edição 2024
 
