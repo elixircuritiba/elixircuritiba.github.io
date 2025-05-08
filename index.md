@@ -20,7 +20,15 @@ Estamos pensando em
 
 - Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento.
 - Fernando Areias (estudante [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - voluntário
-- Adriano Santos - volunário
+- Adriano Santos - voluntário
+
+## Outros eventos interessantes no segundo semestre de 2025
+
+- [Congresso da SBC](https://csbc.sbc.org.br/2025/)
+- [CBSOFT](https://cbsoft.sbc.org.br/2025/cbsoft/)
+- [SE4FP](https://cbsoft.sbc.org.br/2025/cbsoft/)
+- [SBQS](https://sbqs.sbc.org.br/2025/index.php/pt/)
+- [Gambiconf](https://gambiconf.dev/)
 
 # Sobre a edição 2024
 
