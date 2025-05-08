@@ -1,3 +1,12 @@
+
+# Sobre a edição 2025
+
+Já estamos começando a pensar na edição 2025 da Elixir Curitiba.
+
+Já tem ideia de palestra ou atividade? Quer patrocinar o evento? Entre em contato por elixiremfoco@gmail.com!
+
+# Sobre a edição 2024
+
 A Elixir Curitiba aconteceu em Curitiba, Paraná, Brasil, no dia 26 de outubro de 2024, proporcionando um dia inteiro dedicado à linguagem Elixir e ao ecossistema Erlang. A Elixir Curitiba 2024 reuniu desenvolvedores, entusiastas e especialistas de toda a comunidade para compartilhar conhecimentos, ideias e inovações. Houve palestras inspiradoras de líderes da indústria, oportunidades de networking com profissionais de interesses semelhantes e um ambiente vibrante celebrando o poder da programação funcional. O idioma principal do evento foi o português, tornando-o acessível à comunidade local. Seja você um desenvolvedor experiente ou alguém iniciando sua jornada com Elixir, este evento foi a oportunidade perfeita para se conectar, aprender e crescer.
 
 
