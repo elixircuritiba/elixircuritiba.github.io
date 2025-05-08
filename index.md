@@ -3,7 +3,7 @@
 
 Já estamos começando a pensar na edição 2025 da Elixir Curitiba.
 
-Já tem ideia de palestra ou atividade? Quer patrocinar o evento? Entre em contato por elixiremfoco@gmail.com!
+Já tem ideia de palestra ou atividade? Quer patrocinar o evento? Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
 
 # Sobre a edição 2024
 
