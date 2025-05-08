@@ -26,7 +26,7 @@ Estamos pensando em
 
 - [Congresso da SBC](https://csbc.sbc.org.br/2025/)
 - [CBSOFT](https://cbsoft.sbc.org.br/2025/cbsoft/)
-- [SE4FP](https://cbsoft.sbc.org.br/2025/cbsoft/)
+- [SE4FP](https://se4fp.github.io/2025/)
 - [SBQS](https://sbqs.sbc.org.br/2025/index.php/pt/)
 - [Gambiconf](https://gambiconf.dev/)
 
