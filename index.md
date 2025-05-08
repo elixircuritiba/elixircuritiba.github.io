@@ -5,9 +5,10 @@ Já estamos começando a pensar na edição 2025 da Elixir Curitiba.
 
 Já tem ideia de palestra ou atividade? Quer patrocinar o evento? Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
 
-## Equipe Orgqanizadora
+## Equipe Organizadora
 
-- Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento. 
+- Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento.
+- Fernando Areias (estudante [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - volunário
 
 # Sobre a edição 2024
 
