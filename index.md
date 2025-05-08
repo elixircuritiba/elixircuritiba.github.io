@@ -19,7 +19,7 @@ Estamos pensando em
 ## Equipe Organizadora
 
 - Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento.
-- Fernando Areias (estudante [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - voluntário
+- Fernando Areias (Engenheiro de Software na Elo e Mestrando no [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - voluntário
 - Adriano Santos - voluntário
 
 ## Outros eventos interessantes no segundo semestre de 2025
