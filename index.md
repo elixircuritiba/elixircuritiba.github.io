@@ -16,7 +16,7 @@ Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixire
 Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 
 
-  
+<a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:100px;"></a>
 
 
 ## Equipe Organizadora
@@ -30,7 +30,6 @@ Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 
 ## Outros eventos interessantes no segundo semestre de 2025
 
-- [Congresso da SBC](https://csbc.sbc.org.br/2025/)
 - [CBSOFT](https://cbsoft.sbc.org.br/2025/cbsoft/)
 - [SE4FP](https://se4fp.github.io/2025/)
 - [SBQS](https://sbqs.sbc.org.br/2025/index.php/pt/)
