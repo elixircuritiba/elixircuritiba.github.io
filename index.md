@@ -8,7 +8,7 @@ Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. So
 
 
 
-Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil>.
+Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil> até 30/09/2025.
 
 Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
 
