@@ -40,4 +40,6 @@ Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
 
+[🇬🇧 This page in English]](./2025/index_en)
+
 [Sobre a Elixir Curitiba 2024](./2024)
