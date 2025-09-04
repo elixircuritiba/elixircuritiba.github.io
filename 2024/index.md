@@ -4,9 +4,9 @@ A Elixir Curitiba aconteceu em Curitiba, Paraná, Brasil, no dia 26 de outubro d
 
 
 
-- [Fotos da Elixir Curitiba](/fotos/)
-- [Programação da Elixir Curitiba](/programacao.md)
-- [Slides da Elixir Curitiba](/slides/)
+- [Fotos da Elixir Curitiba](./fotos/)
+- [Programação da Elixir Curitiba](./programacao)
+- [Slides da Elixir Curitiba](./slides/)
 
 
 <!-- [Chamada de Palestras / Call for Talks](https://bit.ly/3WVraf5) -->
