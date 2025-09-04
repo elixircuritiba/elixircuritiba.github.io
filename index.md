@@ -3,14 +3,11 @@
 
 Já estamos começando a pensar na edição 2025 da Elixir Curitiba.
 
-- Já tem ideia de palestra ou atividade?
-- Quer patrocinar o evento?
-- Quer ajudar a organizar?
+- Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil>.
+- Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
 
-
-Entre em contato por elixiremfoco@gmail.com!
-
-Não temos data definida ainda. Em 2024 aconteceu em 26/10.
+  
+A Elixir Curitiba 2025 está 99,99% confirmada para sábado 08/11/2025.
 
 
 ## Equipe Organizadora
