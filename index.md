@@ -3,13 +3,18 @@
 
 A Elixir Curitiba 2025 está confirmada para sábado 08/11/2025.
 
-Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) [Av. Sen. Souza Naves, 1240 - Cristo ReiCuritiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
+Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. Souza Naves, 1240 - Cristo ReiCuritiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
 
 
 
 
-- Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil>.
-- Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
+Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil>.
+
+Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
+
+
+Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
+
 
   
 
