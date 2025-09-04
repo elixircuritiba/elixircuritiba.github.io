@@ -16,7 +16,7 @@ Local do evento: R. Pasteur, 463 - Batel, Curitiba - PR, 80250-104 (Escritório 
 
 Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
-<img src="images/Sympla.jpg" alt="Elixir Curitiba 2024" style="width: 80%;">
+<img src="./images/Sympla.jpg" alt="Elixir Curitiba 2024" style="width: 80%;">
 
 
 <!-- Site para inscrição: <https://www.sympla.com.br/evento/elixir-curitiba-2024/2613881> -->
