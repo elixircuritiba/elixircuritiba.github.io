@@ -30,6 +30,13 @@ Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 - [Fabricio Damazio](https://github.com/FabriDamazio)
 - e mais
 
+## Palestrantes cujas propostas foram aceitas
+
+- Davi Abreu Wasserberg
+- Fernando Areias
+- Pedro Castilho
+- Yuri Oliveira
+
 
 ## Outros eventos interessantes no segundo semestre de 2025
 
