@@ -22,6 +22,42 @@ Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:100px;"></a>
 
 
+## Release
+
+**Elixir Curitiba 2025**
+
+A Elixir Curitiba 2025 acontecerá em **Curitiba, Paraná, Brasil, no dia 08 de novembro de 2025**, reunindo novamente a comunidade da BEAM para um dia inteiro dedicado à linguagem **Elixir** e ao ecossistema de **Erlang**. O evento será realizado no **Banco Senff – Av. Sen. Souza Naves, 1240 – Cristo Rei, Curitiba – PR, 80050-152**.
+
+Assim como em 2024, o encontro contará com **palestras inspiradoras**, **trocas de experiências**, **oportunidades de networking** e um ambiente acolhedor que valoriza tanto quem já tem experiência com programação funcional quanto quem está dando os primeiros passos. O idioma principal do evento será o **português**, facilitando a participação da comunidade local.
+
+Em 2024, o evento reuniu desenvolvedores, entusiastas e pesquisadores, oferecendo momentos ricos de aprendizado e colaboração. Para 2025, esperamos repetir e ampliar esse sucesso, fortalecendo ainda mais a comunidade Elixir em Curitiba e no Brasil.
+
+**Informações importantes:**
+
+* **Data:** 08/11/2025
+* **Local:** Banco Senff – Av. Sen. Souza Naves, 1240 – Cristo Rei, Curitiba – PR
+* **Classificação Etária:** Permitida a entrada de menores de 18 anos acompanhados de responsáveis
+* **Transferência de ingressos:** Sim
+* **Contato:** [elixiremfoco@gmail.com](mailto:elixiremfoco@gmail.com)
+
+**Organização:**
+Adolfo Neto – DAINF UTFPR e PPGCA
+
+
+**Apoio:**
+
+* Banco Senff
+* Trio Pagamentos
+* Podcast Elixir em Foco
+* Emílias – Armação em Bits
+* Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba
+* Rede Emílias de Podcasts
+
+**Participe da comunidade Elixir CWB no Telegram e acompanhe as novidades.**
+
+Elixir Curitiba é o espaço para **se conectar, aprender e crescer** com a comunidade Elixir no Brasil.
+
+
 ## Equipe Organizadora
 
 - Adolfo Neto (DAINF e [PPGCA UTFPR](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct)) - coordenador do evento.
