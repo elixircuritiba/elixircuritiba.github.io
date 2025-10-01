@@ -6,6 +6,8 @@
 
 A Elixir Curitiba 2025 está confirmada para sábado 08/11/2025.
 
+Os ingressos podem ser comprados em <https://www.ingresse.com/elixir-curitiba-2025/>.
+
 Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. Souza Naves, 1240 - Cristo Rei, Curitiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
 
 
@@ -16,10 +18,13 @@ Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBra
 Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixiremfoco@gmail.com!
 
 
-Apoio: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
+## Apoio 
 
-
+[Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
 <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:100px;"></a>
+
+[Ingresse](https://www.linkedin.com/company/ingresse)
+<a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="https://www.ingresse.com/_next/static/media/logo-ingresse-colorful.c63e2f05.svg" alt="logo INGRESSE" style="width:100px;"></a>
 
 
 ## Release
