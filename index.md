@@ -20,13 +20,10 @@ Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixire
 
 ## Apoio 
 
-[Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba)
+| <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:100px;"></a> | [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) |
+| <a href="https://bit.ly/IngresseSiteElixirCuritiba"><img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width:100px;"></a> | [Ingresse](https://bit.ly/IngresseSiteElixirCuritiba) |
 
-<a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:100px;"></a>
 
-[Ingresse](https://bit.ly/IngresseSiteElixirCuritiba)
-
-<a href="https://bit.ly/IngresseSiteElixirCuritiba"><img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width:100px;"></a>
 
 
 ## Release
