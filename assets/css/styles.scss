@@ -226,6 +226,112 @@ footer {
   }
 }
 
+// Estilização automática para palestrantes em Markdown
+section {
+  // Imagens de palestrantes (primeira img depois de h2)
+  h2 + p > img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #667eea;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    display: block;
+    margin: 20px auto;
+    transition: transform 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+  
+  // Parágrafos com bold (Palestrante, Bio, Resumo)
+  p {
+    strong {
+      color: #667eea;
+      font-size: 1.05em;
+    }
+  }
+}
+
+// Cards de palestrantes
+.speaker-card {
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  margin: 30px 0;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #e1e4e8;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(102, 126, 234, 0.2);
+  }
+}
+
+.speaker-header {
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f0f4ff;
+}
+
+.speaker-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #667eea;
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+  flex-shrink: 0;
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+.speaker-info {
+  flex: 1;
+  
+  .speaker-name {
+    margin: 0 0 12px 0;
+    color: #2d3748;
+    font-size: 1.8em;
+    font-weight: 700;
+  }
+  
+  .speaker-bio {
+    color: #555;
+    line-height: 1.6;
+    margin: 0;
+    font-size: 1.05em;
+  }
+}
+
+.talk-summary {
+  background: linear-gradient(135deg, #f6f8fa 0%, #fff 100%);
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 4px solid #667eea;
+  
+  h4 {
+    margin: 0 0 12px 0;
+    color: #667eea;
+    font-size: 1.2em;
+    font-weight: 600;
+  }
+  
+  p {
+    margin: 0;
+    color: #2d3748;
+    line-height: 1.7;
+  }
+}
+
 // Responsividade aprimorada
 @media (max-width: 768px) {
   body {
@@ -234,6 +340,11 @@ footer {
   
   section {
     padding: 20px;
+    
+    h2 + p > img {
+      width: 140px;
+      height: 140px;
+    }
   }
   
   h1 {
@@ -242,5 +353,20 @@ footer {
   
   h2 {
     font-size: 1.6em;
+  }
+  
+  .speaker-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .speaker-photo {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .speaker-card {
+    padding: 20px;
   }
 }
