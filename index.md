@@ -74,7 +74,8 @@ Elixir Curitiba é o espaço para **se conectar, aprender e crescer** com a comu
 
 ## Palestrantes cujas propostas foram aceitas
 
-- Davi Abreu Wasserberg
+- Manoel Souza (Trio Pagamentos)
+- Davi Abreu Wasserberg (Ingresse)
 - Fernando Areias
 - Pedro Castilho
 - Yuri Oliveira
