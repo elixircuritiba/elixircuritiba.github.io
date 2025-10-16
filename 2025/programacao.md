@@ -17,11 +17,11 @@ __Em construção.__
 
 <img src="images/adolfo_neto.jpg" alt="Adolfo Neto" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** Adolfo Neto
+**Responsável:** Adolfo Neto
 
 **Site**: <https://adolfont.github.io/>
 
-**Bio:** Adolfo Neto é professor na Universidade Tecnológica Federal do Paraná (UTFPR), onde atua no Programa de Pós-Graduação em Computação Aplicada. Com forte envolvimento na comunidade de desenvolvimento funcional e concorrente, ele é cofundador do podcast Elixir em Foco, voltado à divulgação da linguagem Elixir e do ecossistema BEAM no Brasil. Internacionalmente, Adolfo também contribui como líder do grupo de Educação, Treinamento e Adoção da Erlang Ecosystem Foundation, promovendo o ensino e a adoção de tecnologias como Erlang, Elixir e Gleam.
+**Bio:** Adolfo Neto é professor na Universidade Tecnológica Federal do Paraná (UTFPR), onde atua no [Programa de Pós-Graduação em Computação Aplicada](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct). Com forte envolvimento na comunidade de desenvolvimento funcional e concorrente, ele é cofundador do podcast Elixir em Foco, voltado à divulgação da linguagem Elixir e do ecossistema BEAM no Brasil. Internacionalmente, Adolfo também contribui como líder do grupo de Educação, Treinamento e Adoção da [Erlang Ecosystem Foundation](https://bit.ly/3Jma95g), promovendo o ensino e a adoção de tecnologias como Erlang, Elixir e Gleam.
 
 **Resumo:** Informações sobre o evento.
 
