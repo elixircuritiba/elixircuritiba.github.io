@@ -33,7 +33,7 @@ __Em construção.__
 
 **Palestrante:** Pedro Castilho
 
-**Site**: <x.com/coproduto> , <linkedin.com/in/pcstl> , <bsky.app/profile/coprodu.to> 
+**Site**: <http://x.com/coproduto> , <http://linkedin.com/in/pcstl> , <http://bsky.app/profile/coprodu.to> 
 
 **Bio:** Sou CTO na Cumbuca. Trabalho com pagamentos usando Elixir desde o ano de 2020 e sou divulgador da programação funcional desde bem antes disso. 
 
