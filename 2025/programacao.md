@@ -6,7 +6,6 @@ __Em construção.__
 
 ## Índice
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
-  - [Índice](#índice)
   - [Abertura](#abertura)
   - [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
   - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
