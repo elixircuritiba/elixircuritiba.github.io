@@ -72,7 +72,7 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 **Site**: <https://www.linkedin.com/in/manoel-souza>
 
-**Bio:** CTIO e Fundador da Trio
+**Bio:** CTO e Fundador da Trio
 
 **Resumo:** 
 
