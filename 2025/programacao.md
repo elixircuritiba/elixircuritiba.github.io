@@ -7,11 +7,29 @@ __Em construção.__
 ## Índice
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
   - [Índice](#índice)
+  - [Abertura](#abertura)
   - [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
   - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
   - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
 
 ---
+
+## Abertura
+
+<img src="images/adolfo_neto.jpg" alt="Adolfo Neto" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Adolfo Neto
+
+**Site**: <https://adolfont.github.io/>
+
+**Bio:** Adolfo Neto é professor na Universidade Tecnológica Federal do Paraná (UTFPR), onde atua no Programa de Pós-Graduação em Computação Aplicada. Com forte envolvimento na comunidade de desenvolvimento funcional e concorrente, ele é cofundador do podcast Elixir em Foco, voltado à divulgação da linguagem Elixir e do ecossistema BEAM no Brasil. Internacionalmente, Adolfo também contribui como líder do grupo de Educação, Treinamento e Adoção da Erlang Ecosystem Foundation, promovendo o ensino e a adoção de tecnologias como Erlang, Elixir e Gleam.
+
+**Resumo:** Informações sobre o evento.
+
+**Duração:** 15 minutos
+
+---
+
 
 ## StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs
 
