@@ -9,7 +9,7 @@ __Em construção.__
   - [Índice](#índice)
   - [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
   - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
-  - [Palestra 3](#palestra-3)
+  - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
 
 ---
 
@@ -25,15 +25,17 @@ __Em construção.__
 
 **Resumo:** Apresentaremos como agentes Erlang/PostgreSQL gerenciados pelo Gemini, com controle de recursos inteligente usando apenas quotas free diárias, podem dar vida a uma boa história.
 
+**Duração:** 20 minutos
+
 ---
 
 ## A visão de Joe Armstrong: resiliência no mundo real
 
-<img src="images/pedro_castilho.jpeg" alt="Senff" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+<img src="images/pedro_castilho.jpeg" alt="Pedro Castilho" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
 **Palestrante:** Pedro Castilho
 
-**Site**: <http://x.com/coproduto> , <http://linkedin.com/in/pcstl> , <http://bsky.app/profile/coprodu.to> 
+**Sites**: <http://x.com/coproduto> , <http://linkedin.com/in/pcstl> , <http://bsky.app/profile/coprodu.to> 
 
 **Bio:** Sou CTO na Cumbuca. Trabalho com pagamentos usando Elixir desde o ano de 2020 e sou divulgador da programação funcional desde bem antes disso. 
 
@@ -41,16 +43,20 @@ __Em construção.__
 
 Nesta palestra, iremos partir dos princípios filosóficos por trás da criação do Erlang, a partir dos materiais que Joe Armstrong produziu sobre a linguagem, e criar uma correlação entre as ideias que entraram na criação da linguagem, os construtos que temos à disposição na OTP, e finalmente conectar isso com como construímos infraestrutura de pagamentos de altíssima disponibilidade na Cumbuca - levando a ideia de resiliência da teoria até a prática.
 
+**Duração:** 40 minutos
+
 ---
 
-## Palestra 3
+## Experiências da Trio com o Elixir
 
-<img src="images/pedro_castilho.jpeg" alt="Senff" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+<img src="images/manoel_souza.jpeg" alt="Manoel Souza" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** Nome do Palestrante 3
+**Palestrante:** Manoel Souza
 
-**Site**: <https://www.linkedin.com/in/adolfont>
+**Site**: <https://www.linkedin.com/in/manoel-souza>
 
-**Bio:** Mini-bio do palestrante aqui...
+**Bio:** CTIO e Fundador da Trio
 
-**Resumo:** Conteúdo da palestra 3...
+**Resumo:** 
+
+**Duração:** 40 minutos
