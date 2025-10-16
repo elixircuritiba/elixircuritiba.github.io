@@ -29,7 +29,7 @@ __Em construção.__
 
 ## A visão de Joe Armstrong: resiliência no mundo real
 
-<img src="../2024/images/logo_senff.jpg" alt="Senff" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+<img src="images/pedro_castilho.jpeg" alt="Senff" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
 **Palestrante:** Pedro Castilho
 
