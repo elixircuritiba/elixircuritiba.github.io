@@ -5,9 +5,11 @@
 __Em construção.__
 
 ## Índice
-- [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
-- [Palestra 2](#palestra-2)
-- [Palestra 3](#palestra-3)
+- [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
+  - [Índice](#índice)
+  - [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
+  - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
+  - [Palestra 3](#palestra-3)
 
 ---
 
@@ -25,17 +27,19 @@ __Em construção.__
 
 ---
 
-## Palestra 2
+## A visão de Joe Armstrong: resiliência no mundo real
 
 <img src="../2024/images/logo_senff.jpg" alt="Senff" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** Nome do Palestrante 2
+**Palestrante:** Pedro Castilho
 
-**Site**: <https://www.linkedin.com/in/adolfont>
+**Site**: <x.com/coproduto> , <linkedin.com/in/pcstl> , <bsky.app/profile/coprodu.to> 
 
-**Bio:** Mini-bio do palestrante aqui...
+**Bio:** Sou CTO na Cumbuca. Trabalho com pagamentos usando Elixir desde o ano de 2020 e sou divulgador da programação funcional desde bem antes disso. 
 
-**Resumo:** Conteúdo da palestra 2...
+**Resumo:** É frequente novatos em Erlang ou Elixir ouvirem falar sobre como essas linguagens permitem criar sistemas de alta disponibilidade - mas frequentemente isso fica só no mundo abstrato. Não é óbvio como os comportamentos da OTP garantem essas propriedades em sistemas reais.
+
+Nesta palestra, iremos partir dos princípios filosóficos por trás da criação do Erlang, a partir dos materiais que Joe Armstrong produziu sobre a linguagem, e criar uma correlação entre as ideias que entraram na criação da linguagem, os construtos que temos à disposição na OTP, e finalmente conectar isso com como construímos infraestrutura de pagamentos de altíssima disponibilidade na Cumbuca - levando a ideia de resiliência da teoria até a prática.
 
 ---
 
