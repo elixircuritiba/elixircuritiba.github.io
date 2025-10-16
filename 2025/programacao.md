@@ -15,7 +15,7 @@ __Em construção.__
 
 ## StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs
 
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQF0VgLCLG9VYw/profile-displayphoto-shrink_800_800/B4DZOUpue1HIAc-/0/1733365788728?e=1762992000&v=beta&t=1kg00hym5hx-dhsXRSQSzvMOkE23_eHvK63_GZMB6tE" alt="Davi Abreu Wasserberg" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+<img src="images/davi_abreu.jpeg" alt="Davi Abreu Wasserberg" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
 **Palestrante:** Davi Abreu Wasserberg
 
