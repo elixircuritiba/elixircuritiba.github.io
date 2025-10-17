@@ -82,14 +82,6 @@ Elixir Curitiba é o espaço para **se conectar, aprender e crescer** com a comu
 - [Fabricio Damazio](https://github.com/FabriDamazio)
 - e mais
 
-## Palestrantes cujas propostas foram aceitas
-
-- Manoel Souza (Trio Pagamentos)
-- Davi Abreu Wasserberg (Ingresse)
-- Fernando Areias
-- Pedro Castilho
-- Yuri Oliveira
-
 
 ## Outros eventos interessantes no segundo semestre de 2025
 
