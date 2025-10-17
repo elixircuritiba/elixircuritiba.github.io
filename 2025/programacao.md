@@ -11,11 +11,12 @@ __Em construção.__
 
 09:15 – 09:35 | StoryTellerEx – Davi Wasserberg (20 min)
 
-09:35 – 10:35 | A visão de Joe Armstrong – Pedro Castilho (60 min)
+09:35 – 10:35 | Erlang Distribuído: Escalabilidade e Tolerância a Falhas – Fernando Areias (60 min)
 
-10:35 – 11:35 | Experiências da Trio com o Elixir – Manoel Souza (60 min)
+10:35 – 11:35 | A visão de Joe Armstrong – Pedro Castilho (60 min)
 
-11:35 – 12:35 | Erlang Distribuído: Escalabilidade e Tolerância a Falhas – Fernando Areias (60 min)
+11:35 – 12:35 | Experiências da Trio com o Elixir – Manoel Souza (60 min)
+
 
 12:35 – 14:35 | Almoço (2h)
 
