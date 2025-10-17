@@ -13,6 +13,8 @@ __Em construção.__
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
   - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
+  - [Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)](#escalando-elixir-na-prática-lições-da-manutenção-e-otimização-de-uma-base-monolítica-provisório)
+  - [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
 
 ---
 
@@ -120,22 +122,6 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 ---
 
-## SQLite em produção e OOM kills
-
-<img src="images/yuri-oliveira.jpeg" alt="Yuri Oliveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
-
-**Palestrante:** Yuri Oliveira
-
-**Site**: <https://bsky.app/profile/yuri.omg.lol>, <https://www.linkedin.com/in/yurioliveira/>
-
-**Bio:** Engenheiro de software trabalhando com edge computing, BEAM clusters, backend e gestão de equipes.
-
-**Resumo:** SQLite é um banco de dados capaz de lidar com grandes sistemas em produção. Como criamos um cluster multitenancy e distribuído com SQLite e quais limitações observamos.
-
-**Duração:** 20 minutos
-
-
---- 
 
 ## LFE - code is data is code (de novo)
 
