@@ -3,26 +3,43 @@
 
 @import "{{ site.theme }}";
 
-// Melhorias visuais modernas
+// ========================================
+// CORREÇÃO DO LAYOUT - ESPAÇAMENTO
+// ========================================
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 body {
+  padding: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
   line-height: 1.7;
   color: #333;
-  font-size: 18px; // FONTE MAIOR
+  font-size: 18px;
 }
 
-// Header aprimorado (mantém seu título amarelo)
+// ========================================
+// MELHORIAS VISUAIS MODERNAS
+// ========================================
+
+// Header aprimorado
 header {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   padding: 30px 20px;
   border-radius: 12px;
-  margin-bottom: 40px; // ESPAÇO ANTES DO CONTEÚDO
+  margin-bottom: 40px;
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 40px;
+  padding-right: 40px;
   
   h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
     font-weight: 700;
-    // Seu amarelo personalizado já está no HTML inline - isso é só fallback
   }
   
   p {
@@ -30,7 +47,6 @@ header {
     font-size: 1.1em;
   }
   
-  // Links no header
   a {
     color: white !important;
     border-bottom: 2px solid transparent;
@@ -76,7 +92,7 @@ pre, code {
   border: 1px solid #e1e4e8;
   border-radius: 6px;
   font-family: 'Consolas', 'Monaco', monospace;
-  font-size: 16px; // FONTE MAIOR NO CÓDIGO
+  font-size: 16px;
 }
 
 pre {
@@ -105,7 +121,7 @@ blockquote {
   padding: 15px 20px;
   border-radius: 0 6px 6px 0;
   font-style: italic;
-  font-size: 17px; // FONTE MAIOR
+  font-size: 17px;
 }
 
 // Tabelas modernas
@@ -116,7 +132,7 @@ table {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   border-radius: 8px;
   overflow: hidden;
-  font-size: 17px; // FONTE MAIOR
+  font-size: 17px;
   
   thead {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -162,7 +178,7 @@ img {
   }
 }
 
-// Cards/seções
+// Seções/Cards
 section {
   background: white;
   padding: 30px;
@@ -170,13 +186,12 @@ section {
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: box-shadow 0.3s ease;
-  font-size: 18px; // FONTE MAIOR NO CONTEÚDO
+  font-size: 18px;
   
   &:hover {
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
   }
   
-  // Parágrafos com tamanho maior
   p, li {
     font-size: 18px;
     line-height: 1.8;
@@ -219,7 +234,7 @@ footer {
   transition: background-color 0.2s ease, color 0.2s ease;
 }
 
-// Scrollbar personalizada (webkit)
+// Scrollbar personalizada
 ::-webkit-scrollbar {
   width: 10px;
   height: 10px;
@@ -238,9 +253,8 @@ footer {
   }
 }
 
-// Estilização automática para palestrantes em Markdown
+// Estilização para palestrantes
 section {
-  // Imagens de palestrantes (primeira img depois de h2)
   h2 + p > img {
     width: 180px;
     height: 180px;
@@ -257,7 +271,6 @@ section {
     }
   }
   
-  // Parágrafos com bold (Palestrante, Bio, Resumo)
   p {
     strong {
       color: #667eea;
@@ -344,19 +357,30 @@ section {
   }
 }
 
-// Responsividade aprimorada
+// ========================================
+// RESPONSIVIDADE
+// ========================================
+
 @media (max-width: 768px) {
+  .wrapper {
+    padding: 0 15px;
+  }
+  
   body {
-    font-size: 16px; // FONTE MAIOR NO MOBILE
+    font-size: 16px;
   }
   
   header {
-    margin-bottom: 30px; // ESPAÇO ANTES DO CONTEÚDO NO MOBILE
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 30px;
   }
   
   section {
     padding: 20px;
-    font-size: 16px; // FONTE MAIOR NO MOBILE
+    font-size: 16px;
     
     p, li {
       font-size: 16px;
