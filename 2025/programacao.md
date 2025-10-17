@@ -4,6 +4,36 @@
 
 __Em construção.__
 
+
+<!--
+
+09:00 – 09:15 | Abertura – Adolfo Neto (15 min)
+
+09:15 – 09:35 | StoryTellerEx – Davi Wasserberg (20 min)
+
+09:35 – 10:35 | A visão de Joe Armstrong – Pedro Castilho (60 min)
+
+10:35 – 11:35 | Experiências da Trio com o Elixir – Manoel Souza (60 min)
+
+11:35 – 12:35 | Erlang Distribuído: Escalabilidade e Tolerância a Falhas – Fernando Areias (60 min)
+
+12:35 – 14:35 | Almoço (2h)
+
+14:35 – 14:55 | SQLite em produção e OOM kills – Yuri Oliveira (20 min)
+
+14:55 – 15:15 | LFE - code is data is code – Bruno Dias (20 min)
+
+15:15 – 15:35 | Elixir em Produção na MeetRox – Thiago Zattar (20 min)
+
+15:35 – 16:05 | Coffee Break (30 min)
+
+16:05 – 17:05 | Escalando Elixir na Prática – Lívia Barbosa (60 min)
+
+17:05 – 18:00 | Encerramento, Q&A, networking, buffer final (55 min)
+
+
+-->
+
 ## Índice
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
   - 9h00 [Abertura](#abertura)
