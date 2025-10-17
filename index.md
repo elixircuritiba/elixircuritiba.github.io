@@ -83,14 +83,12 @@ Elixir Curitiba é o espaço para **se conectar, aprender e crescer** com a comu
 
 ## Outros eventos interessantes no segundo semestre de 2025
 
-- [CBSOFT](https://cbsoft.sbc.org.br/2025/cbsoft/)
-- [SE4FP](https://se4fp.github.io/2025/)
-- [SBQS](https://sbqs.sbc.org.br/2025/index.php/pt/)
-- [Gambiconf](https://gambiconf.dev/)
+- [SBQS - 4 a 7 de novembro em São José dos Campos](https://sbqs.sbc.org.br/2025/index.php/pt/)
+- [Gambiconf - 29 e 30 de Novembro em São Paulo](https://gambiconf.dev/)
 
 
 
-Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
+## Entre na comunidade [Elixir CWB](https://t.me/elixir_cwb) no Telegram.
 
 
 [🇬🇧 This page in English](./2025/index_en)
