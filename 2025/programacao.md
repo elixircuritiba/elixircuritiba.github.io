@@ -126,7 +126,7 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 **Palestrante:** Fernando Areias
 
-**Site**: <linkedin.com/in/fernando-calheiros>
+**Site**: <http://linkedin.com/in/fernando-calheiros>
 
 **Bio:** Engenheiro de Software na Elo e mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCA) da UTFPR, onde investigo formas de melhorar a escalabilidade do modelo de distribuição de Erlang.
 
