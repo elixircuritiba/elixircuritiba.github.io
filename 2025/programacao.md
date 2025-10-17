@@ -74,6 +74,6 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 **Bio:** CTO na Trio
 
-**Resumo:** 
+**Resumo:** Na Trio decidimos usar o Elixir em toda a stack. Mas quais ferramentas estamos usando e quais foram as nossas experiências?
 
 **Duração:** 40 minutos
