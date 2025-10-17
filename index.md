@@ -10,7 +10,7 @@ Os ingressos podem ser comprados em <https://www.ingresse.com/elixir-curitiba-20
 
 Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. Souza Naves, 1240 - Cristo Rei, Curitiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
 
-
+## [Programação](2025/programacao.md)
 
 
 Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil> até 30/09/2025.
