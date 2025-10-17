@@ -11,6 +11,7 @@ __Em construção.__
   - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
   - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
+  - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
 
 ---
 
@@ -93,5 +94,21 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 **Bio:** Engenheiro de Software na Elo e mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCA) da UTFPR, onde investigo formas de melhorar a escalabilidade do modelo de distribuição de Erlang.
 
 **Resumo:** Nesta apresentação, pretendo mostrar como funciona a distribuição do ERTS, destacando os protocolos envolvidos, como EPMD e o Erlang Distribution Protocol (ErlDP). Também vou apresentar um projeto desenvolvido pelo grupo de estudo Erlang Brasil: um servidor de chamadas de procedimentos remotos (RPC) distribuído, que exemplifica na prática o uso desses mecanismos. O código está disponível em: <https://github.com/Erlang-Brasil/rpc_server/tree/feature/dist>.
- 
+
 **Duração:** 40 minutos
+
+
+
+## SQLite em produção e OOM kills
+
+<img src="images/yuri-oliveira.jpeg" alt="Yuri Oliveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Yuri Oliveira
+
+**Site**: <https://bsky.app/profile/yuri.omg.lol>, <https://www.linkedin.com/in/yurioliveira/>
+
+**Bio:** Engenheiro de software trabalhando com edge computing, BEAM clusters, backend e gestão de equipes.
+
+**Resumo:** SQLite é um banco de dados capaz de lidar com grandes sistemas em produção. Como criamos um cluster multitenancy e distribuído com SQLite e quais limitações observamos.
+
+**Duração:** 20 minutos
