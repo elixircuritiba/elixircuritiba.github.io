@@ -21,8 +21,10 @@ Want to sponsor the event? Want to help organize it? Contact us at elixiremfoco@
 
 <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:150px;"></a> 
 
-<div style="background-color: black; display: inline-block; padding: 10px;">
-<a href="https://bit.ly/IngresseSiteElixirCuritiba"><img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width:150px;"></a> 
+<div style="background-color: black; display: inline-block; padding: 12px; border-radius: 8px;">
+  <a href="https://bit.ly/IngresseSiteElixirCuritiba" target="_blank" style="text-decoration: none;">
+    <img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width: 150px; vertical-align: middle;">
+  </a>
 </div>
 
 
