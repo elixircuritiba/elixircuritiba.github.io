@@ -154,3 +154,22 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 
 --- 
+
+## Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)
+
+<img src="images/livia-barbosa.jpeg" alt="Livia Barbosa" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** (a confirmar) Livia Almeida Barbosa
+
+**Site**: <https://www.linkedin.com/in/liviaab>
+
+**Bio:**  Senior Backend Engineer I na Remote.  Graduada e Mestre em Ciência da Computação. Desenvolvedora full-stack com o objetivo de resolver novos desafios e sair da zona de conforto. Promotora de um ambiente de trabalho mais inclusivo e diversificado.
+
+
+
+**Resumo:** A definir
+
+**Duração:** 40 minutos
+
+
+--- 
