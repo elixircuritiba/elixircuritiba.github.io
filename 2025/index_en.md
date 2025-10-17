@@ -15,12 +15,13 @@ Want to sponsor the event? Want to help organize it? Contact us at elixiremfoco@
 
 ## Support
 
-| <a href=""><img src="2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> | [TRIO](https://www.triohq.com/) |
+
+ <a href="https://www.triohq.com/"><img src="2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> 
 
 
-| <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:150px;"></a> | [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) |
+<a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:150px;"></a> 
 
-| <a href="https://bit.ly/IngresseSiteElixirCuritiba"><img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width:150px;"></a> | [Ingresse](https://bit.ly/IngresseSiteElixirCuritiba) |
+<a href="https://bit.ly/IngresseSiteElixirCuritiba"><img src="/2025/images/logo-ingresse.svg" alt="logo INGRESSE" style="width:150px;"></a> 
 
 
 
