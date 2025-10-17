@@ -12,6 +12,7 @@ __Em construção.__
   - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
+  - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
 
 ---
 
@@ -97,7 +98,7 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 **Duração:** 40 minutos
 
-
+---
 
 ## SQLite em produção e OOM kills
 
@@ -112,3 +113,44 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 **Resumo:** SQLite é um banco de dados capaz de lidar com grandes sistemas em produção. Como criamos um cluster multitenancy e distribuído com SQLite e quais limitações observamos.
 
 **Duração:** 20 minutos
+
+
+---
+
+## SQLite em produção e OOM kills
+
+<img src="images/yuri-oliveira.jpeg" alt="Yuri Oliveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Yuri Oliveira
+
+**Site**: <https://bsky.app/profile/yuri.omg.lol>, <https://www.linkedin.com/in/yurioliveira/>
+
+**Bio:** Engenheiro de software trabalhando com edge computing, BEAM clusters, backend e gestão de equipes.
+
+**Resumo:** SQLite é um banco de dados capaz de lidar com grandes sistemas em produção. Como criamos um cluster multitenancy e distribuído com SQLite e quais limitações observamos.
+
+**Duração:** 20 minutos
+
+
+--- 
+
+## LFE - code is data is code (de novo)
+
+<img src="images/bruno-dias.jpeg" alt="Bruno Dias" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Bruno Dias
+
+**Site**: <https://github.com/diasbruno>, <https://www.linkedin.com/in/brunodiash/>, <https://diasbruno.github.io/>
+
+**Bio:** Sou engenheiro de software sênior e atualmente trabalho com Common Lisp, Haskell, Elm e Javascript/Typescript. Mas também com Ruby e Python. F#, C/C++, Rust e Go estão na minha lista de interesses.
+
+Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o poder da geração de código em tempo de execução e compilação, visando muitas linguagens usando Common Lisp.
+
+
+
+**Resumo:** Utilizações de conceitos de geração de código para simplificar aplicações.
+
+**Duração:** 20 minutos
+
+
+--- 
