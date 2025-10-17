@@ -57,6 +57,9 @@ __Em construção.__
 
 **Sites**: <http://x.com/coproduto> , <http://linkedin.com/in/pcstl> , <http://bsky.app/profile/coprodu.to> 
 
+**Episódios do Elixir em Foco**: [1. Elixir em Produção com Pedro Castilho, CTO da Comadre](https://open.spotify.com/episode/5jA7u97KpcE5nJbuAOsWoU) e [Mesa Redonda com Pedro Castilho, Vitor Leal e Elaine Naomi Watanabe](https://open.spotify.com/episode/3EI3OcRQyWlUqUceKJMlPj)
+
+
 **Bio:** Sou CTO na Cumbuca. Trabalho com pagamentos usando Elixir desde o ano de 2020 e sou divulgador da programação funcional desde bem antes disso. 
 
 **Resumo:** É frequente novatos em Erlang ou Elixir ouvirem falar sobre como essas linguagens permitem criar sistemas de alta disponibilidade - mas frequentemente isso fica só no mundo abstrato. Não é óbvio como os comportamentos da OTP garantem essas propriedades em sistemas reais.
@@ -163,6 +166,10 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 **Site**: <https://www.linkedin.com/in/liviaab>
 
+**Episódio do Elixir em Foco**: [Elixir em Produção na Remote, com Lívia Almeida Barbosa
+](https://open.spotify.com/episode/1n7gYER9Ye2LaVQAGpOvIb)
+
+
 **Bio:**  Senior Backend Engineer I na Remote.  Graduada e Mestre em Ciência da Computação. Desenvolvedora full-stack com o objetivo de resolver novos desafios e sair da zona de conforto. Promotora de um ambiente de trabalho mais inclusivo e diversificado.
 
 
@@ -173,3 +180,27 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 
 --- 
+
+
+
+## Elixir em Produção na MeetRox (provisório) 
+
+<img src="images/thiago-silveira.jpeg" alt="Thiago Zattar da Silveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** (a confirmar) Thiago Zattar da Silveira
+
+**Site**: <https://www.linkedin.com/in/thiago-zattar-da-silveira/>
+
+**Episódio do Elixir em Foco**: [Elixir em produção na MeetRox, com Ana Dubas e Thiago Zattar da Silveira](https://open.spotify.com/episode/1YEORioUUESltu6B7DpgiQ)
+
+**Bio:**  Co-founder & CTO at MeetRox
+
+**Resumo:** A definir
+
+**Duração:** 20 minutos
+
+
+--- 
+
+
+
