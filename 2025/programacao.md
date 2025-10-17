@@ -10,6 +10,7 @@ __Em construção.__
   - 9h15 [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
   - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
   - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
+  - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
 
 ---
 
@@ -32,7 +33,7 @@ __Em construção.__
 
 ## StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs
 
-<img src="images/davi_abreu.jpeg" alt="Pedro Castilho" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+<img src="images/davi_abreu.jpeg" alt="Davi Abreu Wasserberg" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
 **Palestrante:** Davi Abreu Wasserberg
 
@@ -76,4 +77,21 @@ Nesta palestra, iremos partir dos princípios filosóficos por trás da criaçã
 
 **Resumo:** Na Trio decidimos usar o Elixir em toda a stack. Mas quais ferramentas estamos usando e quais foram as nossas experiências?
 
+**Duração:** 40 minutos
+
+
+---
+
+## Erlang Distribuído: Escalabilidade e Tolerância a Falhas
+
+<img src="images/fernando-areias.jpeg" alt="Fernando Areias" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Fernando Areias
+
+**Site**: <linkedin.com/in/fernando-calheiros>
+
+**Bio:** Engenheiro de Software na Elo e mestrando no Programa de Pós-Graduação em Computação Aplicada (PPGCA) da UTFPR, onde investigo formas de melhorar a escalabilidade do modelo de distribuição de Erlang.
+
+**Resumo:** Nesta apresentação, pretendo mostrar como funciona a distribuição do ERTS, destacando os protocolos envolvidos, como EPMD e o Erlang Distribution Protocol (ErlDP). Também vou apresentar um projeto desenvolvido pelo grupo de estudo Erlang Brasil: um servidor de chamadas de procedimentos remotos (RPC) distribuído, que exemplifica na prática o uso desses mecanismos. O código está disponível em: <https://github.com/Erlang-Brasil/rpc_server/tree/feature/dist>.
+ 
 **Duração:** 40 minutos
