@@ -39,15 +39,17 @@ __Em construção.__
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
   - 9h00 [Abertura](#abertura)
   - 9h15 [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
-  - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
-  - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
-  - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
-  - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
-  - _16h00 Intervalo para café e networking_
-  - 16h20 [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
-  - 16h50 [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
-  - 17h20 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
-  - 17h40 [Encerramento](#encerramento)
+  - _10h00 Intervalo para café e networking_
+  - 10h30 [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
+  - 11h20 [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
+  - _12h10 Intervalo para almoço_
+  - 14h00 [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
+  - 14h50 [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
+  - _15h30 Intervalo para café e networking_
+  - 16h00 [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
+  - 16h30 [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
+  - 17h00 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
+  - 17h45 [Encerramento](#encerramento)
 
 ---
 
