@@ -45,7 +45,8 @@ __Em construção.__
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
   - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
   - [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
-  - **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
+  - 17h20 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
+  - 17h40 [Encerramento](#encerramento)
 
 ---
 
@@ -218,3 +219,18 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 
 --- 
+
+
+## Encerramento
+
+<img src="images/adolfo_neto.jpg" alt="Adolfo Neto" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Responsável:** Adolfo Neto
+
+**Site**: <https://adolfont.github.io/>
+
+**Bio:** Adolfo Neto é professor na Universidade Tecnológica Federal do Paraná (UTFPR), onde atua no [Programa de Pós-Graduação em Computação Aplicada](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct). Com forte envolvimento na comunidade de desenvolvimento funcional e concorrente, ele é cofundador do podcast Elixir em Foco, voltado à divulgação da linguagem Elixir e do ecossistema BEAM no Brasil. Internacionalmente, Adolfo também contribui como líder do grupo de Educação, Treinamento e Adoção da [Erlang Ecosystem Foundation](https://bit.ly/3Jma95g), promovendo o ensino e a adoção de tecnologias como Erlang, Elixir e Gleam.
+
+**Resumo:** Encerramento do evento.
+
+**Duração:** 5 minutos
