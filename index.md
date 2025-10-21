@@ -64,7 +64,7 @@ Adolfo Neto – DAINF UTFPR e PPGCA
 * [Trio](https://www.linkedin.com/company/trio-fin) Pagamentos
 * Banco [Senff](https://www.linkedin.com/company/senff/)
 * [Ingresse](https://www.linkedin.com/company/ingresse)
-* Podcast Elixir em Foco
+* [Podcast Elixir em Foco](http://elixiremfoco.com/)
 * Emílias – Armação em Bits
 * Programa de Pós-Graduação em Computação Aplicada da UTFPR Curitiba
 * Rede Emílias de Podcasts
