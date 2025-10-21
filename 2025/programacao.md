@@ -43,7 +43,7 @@ __Em construção.__
   - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
-  - 16h00 Intervalo para café e *networking*
+  - _16h00 Intervalo para café e *networking*_
   - 16h20 [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
   - 16h50 [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
   - 17h20 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
