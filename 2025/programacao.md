@@ -44,7 +44,7 @@ __Em construção.__
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
   - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
-  - [Elixir em Produção: Um Estudo de Caso](#elixir-em-producao-um-estudo-de-caso)
+  - [Elixir em Produção: Um Estudo de Caso](#elixir-em-producao:-um-estudo-de-caso)
   - [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
 
 ---
