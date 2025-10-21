@@ -28,7 +28,7 @@ __Em construção.__
 
 15:35 – 16:05 | Coffee Break (30 min)
 
-16:05 – 17:05 | Escalando Elixir na Prática – Lívia Barbosa (60 min)
+16:05 – 17:05 | Elixir em Produção: Um Estudo de Caso – Lívia Barbosa (60 min)
 
 17:05 – 18:00 | Encerramento, Q&A, networking, buffer final (55 min)
 
@@ -44,7 +44,7 @@ __Em construção.__
   - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
   - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
   - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
-  - [Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)](#escalando-elixir-na-prática-lições-da-manutenção-e-otimização-de-uma-base-monolítica-provisório)
+  - [Elixir em Produção: Um Estudo de Caso](#elixir-em-producão-um-estudo-de-caso)
   - [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
 
 ---
@@ -175,11 +175,11 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 --- 
 
-## Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)
+## Elixir em Produção: Um Estudo de Caso
 
 <img src="images/livia-barbosa.jpeg" alt="Livia Barbosa" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** (a confirmar) Livia Almeida Barbosa
+**Palestrante:** Livia Almeida Barbosa
 
 **Site**: <https://www.linkedin.com/in/liviaab>
 
@@ -187,8 +187,7 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 ](https://open.spotify.com/episode/1n7gYER9Ye2LaVQAGpOvIb)
 
 
-**Bio:**  Senior Backend Engineer I na Remote.  Graduada e Mestre em Ciência da Computação. Desenvolvedora full-stack com o objetivo de resolver novos desafios e sair da zona de conforto. Promotora de um ambiente de trabalho mais inclusivo e diversificado.
-
+**Bio:**  Já imaginou lidar com uma aplicação Elixir que tem mais de 20 mil arquivos? Vamos falar sobre o uso de Elixir em produção na Remote e entender como a equipe lida com uma codebase monolítica crescente. Abordaremos as práticas adotadas para lidar com desafios como tempo de compilação e a manutenção de uma suíte de testes com mais de 100 mil casos.
 
 
 **Resumo:** A definir
