@@ -209,10 +209,10 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 ](https://open.spotify.com/episode/1n7gYER9Ye2LaVQAGpOvIb)
 
 
-**Bio:**  Já imaginou lidar com uma aplicação Elixir que tem mais de 20 mil arquivos? Vamos falar sobre o uso de Elixir em produção na Remote e entender como a equipe lida com uma codebase monolítica crescente. Abordaremos as práticas adotadas para lidar com desafios como tempo de compilação e a manutenção de uma suíte de testes com mais de 100 mil casos.
+**Bio:**  Senior Backend Engineer I na Remote.  Graduada e Mestre em Ciência da Computação. Desenvolvedora full-stack com o objetivo de resolver novos desafios e sair da zona de conforto. Promotora de um ambiente de trabalho mais inclusivo e diversificado.
 
 
-**Resumo:** A definir
+**Resumo:** Já imaginou lidar com uma aplicação Elixir que tem mais de 20 mil arquivos? Vamos falar sobre o uso de Elixir em produção na Remote e entender como a equipe lida com uma codebase monolítica crescente. Abordaremos as práticas adotadas para lidar com desafios como tempo de compilação e a manutenção de uma suíte de testes com mais de 100 mil casos.
 
 **Duração:** 40 minutos
 
