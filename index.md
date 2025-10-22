@@ -1,7 +1,7 @@
 
 # Elixir Curitiba 2025
 
-<img src="/2025/images/ElixirCuritibaSquare_ptbr.png" alt="logo Elixir Curitiba" style="width:192px;">
+<img src="/2025/images/ElixirCuritibaBrunaCalegari.png" alt="Elixir Curitiba poster (by bruna Calegari)" style="width:192px;">
 
 
 A Elixir Curitiba 2025 está confirmada para sábado 08/11/2025.
