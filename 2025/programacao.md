@@ -2,38 +2,7 @@
 
 [Voltar à página inicial](.././index.md)
 
-__Em construção.__
 
-
-<!--
-
-09:00 – 09:15 | Abertura – Adolfo Neto (15 min)
-
-09:15 – 09:35 | StoryTellerEx – Davi Wasserberg (20 min)
-
-09:35 – 10:35 | Erlang Distribuído: Escalabilidade e Tolerância a Falhas – Fernando Areias (60 min)
-
-10:35 – 11:35 | A visão de Joe Armstrong – Pedro Castilho (60 min)
-
-11:35 – 12:35 | Experiências da Trio com o Elixir – Manoel Souza (60 min)
-
-
-12:35 – 14:35 | Almoço (2h)
-
-14:35 – 14:55 | SQLite em produção e OOM kills – Yuri Oliveira (20 min)
-
-14:55 – 15:15 | LFE - code is data is code – Bruno Dias (20 min)
-
-15:15 – 15:35 | Elixir em Produção na MeetRox – Thiago Zattar (20 min)
-
-15:35 – 16:05 | Coffee Break (30 min)
-
-16:05 – 17:05 | Elixir em Produção: Um Estudo de Caso – Lívia Barbosa (60 min)
-
-17:05 – 18:00 | Encerramento, Q&A, networking, buffer final (55 min)
-
-
--->
 
 ## Índice
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
@@ -47,7 +16,7 @@ __Em construção.__
   - 14h50 [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
   - _15h30 Intervalo para café e networking_
   - 16h00 [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
-  - 16h30 [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
+  - 16h30 [Elixir em Produção na MeetRox](#elixir-em-produção-na-meetrox)
   - 17h00 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
   - 17h45 [Encerramento](#encerramento)
 
@@ -180,19 +149,19 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 --- 
 
 
-## Elixir em Produção na MeetRox (provisório) 
+## Elixir em Produção na MeetRox
 
 <img src="images/thiago-silveira.jpeg" alt="Thiago Zattar da Silveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** (a confirmar) Thiago Zattar da Silveira
+**Palestrante:** Thiago Zattar da Silveira
 
 **Site**: <https://www.linkedin.com/in/thiago-zattar-da-silveira/>
 
 **Episódio do Elixir em Foco**: [Elixir em produção na MeetRox, com Ana Dubas e Thiago Zattar da Silveira](https://open.spotify.com/episode/1YEORioUUESltu6B7DpgiQ)
 
-**Bio:**  Co-founder & CTO at MeetRox
+**Bio:**  Co-founder & CTO na MeetRox. Com trajetória ampla em diferentes stacks, já atuou com firmwares em C, backends em múltiplas linguagens e frontends desde a era do PHP. Adotou Elixir em produção em 2016 e segue desde então (sendo mais feliz).
 
-**Resumo:** A definir
+**Resumo:**  Vamos explorar como a MeetRox usa Elixir em produção, destacando alguns desafios de escala que enfrentamos ao ingerir e processar mais de 40 TB de reuniões por mês.
 
 **Duração:** 20 minutos
 
