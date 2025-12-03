@@ -4,7 +4,7 @@
 <img src="/2025/images/ElixirCuritibaBrunaCalegari.png" alt="Elixir Curitiba poster (by bruna Calegari)" style="width:33%;">
 
 
-A Elixir Curitiba 2025 está confirmada para sábado 08/11/2025.
+A Elixir Curitiba 2025 aconteceu no sábado 08/11/2025.
 
 Os ingressos podem ser comprados em <https://www.ingresse.com/elixir-curitiba-2025/>.
 
