@@ -8,7 +8,7 @@ A Elixir Curitiba 2025 aconteceu no sábado 08/11/2025.
 
 Quer nos ajudar a organizar ou quer patrocinar o próximo evento de Elixir em Curitiba?   Entre em contato por elixiremfoco@gmail.com!
 
--->
+
 
 
 ## Apoios da Elixir Curitiba 2025 
