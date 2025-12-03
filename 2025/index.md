@@ -6,7 +6,7 @@
 
 A Elixir Curitiba 2025 aconteceu no sábado 08/11/2025.
 
-Os ingressos podem ser comprados em <https://www.ingresse.com/elixir-curitiba-2025/>.
+Os ingressos puderam ser comprados em <https://www.ingresse.com/elixir-curitiba-2025/>.
 
 Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. Souza Naves, 1240 - Cristo Rei, Curitiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
 
