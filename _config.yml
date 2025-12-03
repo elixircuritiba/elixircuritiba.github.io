@@ -1,9 +1,18 @@
 title: Elixir Curitiba
 description: Evento sobre Elixir e linguagens do ecossistema de Erlang em Curitiba
+url: "https://curitiba.elixiremfoco.com"
+lang: pt-BR
+
+
+# Imagem padrão para compartilhamento social
+logo: /images/elixircuritiba_elixiremfoco_logo.png  
+social:
+  name: Elixir Curitiba
+  links:
+    - https://curitiba.elixiremfoco.com
 
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
 
 remote_theme: pages-themes/cayman@v0.2.0
-
