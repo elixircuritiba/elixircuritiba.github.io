@@ -10,7 +10,7 @@ Os ingressos podem ser comprados em <https://www.ingresse.com/elixir-curitiba-20
 
 Local: [Banco Senff](https://bit.ly/BancoSenffSiteElixirCuritiba) - [Av. Sen. Souza Naves, 1240 - Cristo Rei, Curitiba - PR, 80050-152](https://share.google/eQGxiKHFiVYSEmkWU)
 
-## [Programação](2025/programacao.md)
+## [Programação](/2025/programacao.md)
 
 <!-- 
 Já tem ideia de palestra ou atividade? Submeta em <https://bit.ly/CFT_ElixirBrasil> até 30/09/2025.
@@ -22,7 +22,7 @@ Quer patrocinar o evento?  Quer ajudar a organizar? Entre em contato por elixire
 
 ## Apoio 
 
-<a href="https://www.triohq.com/"><img src="2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> 
+<a href="https://www.triohq.com/"><img src="/2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> 
 
 
 <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:150px;"></a> 

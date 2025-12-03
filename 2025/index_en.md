@@ -20,7 +20,7 @@ Want to sponsor the event? Want to help organize it? Contact us at elixiremfoco@
 ## Support
 
 
- <a href="https://www.triohq.com/"><img src="2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> 
+ <a href="https://www.triohq.com/"><img src="/2025/images/TRIO.png" alt="logo TRIO" style="width:200px;"></a> 
 
 
 <a href="https://bit.ly/BancoSenffSiteElixirCuritiba"><img src="/images/logo_senff.jpg" alt="logo Banco SENFF" style="width:150px;"></a> 
