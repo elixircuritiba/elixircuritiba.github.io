@@ -42,7 +42,7 @@ for img in "${imagens[@]}"; do
     
     # Adiciona ao Markdown
     echo "## $titulo" >> "$ARQUIVO_SAIDA"
-    echo "<img width=90% src=\"$img\" alt=\"$titulo\" />" >> "$ARQUIVO_SAIDA"
+    echo "<img \"width=90%\" src=\"$img\" alt=\"$titulo\" />" >> "$ARQUIVO_SAIDA"
     echo "" >> "$ARQUIVO_SAIDA"
     
     ((contador++))
