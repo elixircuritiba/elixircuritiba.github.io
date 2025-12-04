@@ -23,6 +23,8 @@ gerar_titulo() {
 # Cria o arquivo Markdown
 echo "# $TITULO_PAGINA" > "$ARQUIVO_SAIDA"
 echo "" >> "$ARQUIVO_SAIDA"
+echo "- Fotógrafo: [Gustavo Arcoverde](https://www.instagram.com/gusarcoverde.fotografia/)" > "$ARQUIVO_SAIDA"
+echo "" >> "$ARQUIVO_SAIDA"
 
 # Contador de fotos
 contador=0
@@ -40,7 +42,7 @@ for img in "${imagens[@]}"; do
     
     # Adiciona ao Markdown
     echo "## $titulo" >> "$ARQUIVO_SAIDA"
-    echo "<img src=\"$img\" alt=\"$titulo\" />" >> "$ARQUIVO_SAIDA"
+    echo "<img width=90% src=\"$img\" alt=\"$titulo\" />" >> "$ARQUIVO_SAIDA"
     echo "" >> "$ARQUIVO_SAIDA"
     
     ((contador++))
