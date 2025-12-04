@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Elixir Curitiba"
 image: /images/elixircuritiba_elixiremfoco_logo.png
 ---
 

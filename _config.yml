@@ -3,6 +3,9 @@ description: Evento sobre Elixir e linguagens do ecossistema de Erlang em Curiti
 url: "https://curitiba.elixiremfoco.com"
 lang: pt-BR
 
+# Para Open Graph (Bluesky)
+og_image: /images/elixircuritiba_elixiremfoco_logo.png
+
 social:
   name: Elixir Curitiba
   links:
