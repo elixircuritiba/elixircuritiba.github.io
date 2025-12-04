@@ -2,50 +2,23 @@
 
 [Voltar à página inicial](.././index.md)
 
-__Em construção.__
 
-
-<!--
-
-09:00 – 09:15 | Abertura – Adolfo Neto (15 min)
-
-09:15 – 09:35 | StoryTellerEx – Davi Wasserberg (20 min)
-
-09:35 – 10:35 | Erlang Distribuído: Escalabilidade e Tolerância a Falhas – Fernando Areias (60 min)
-
-10:35 – 11:35 | A visão de Joe Armstrong – Pedro Castilho (60 min)
-
-11:35 – 12:35 | Experiências da Trio com o Elixir – Manoel Souza (60 min)
-
-
-12:35 – 14:35 | Almoço (2h)
-
-14:35 – 14:55 | SQLite em produção e OOM kills – Yuri Oliveira (20 min)
-
-14:55 – 15:15 | LFE - code is data is code – Bruno Dias (20 min)
-
-15:15 – 15:35 | Elixir em Produção na MeetRox – Thiago Zattar (20 min)
-
-15:35 – 16:05 | Coffee Break (30 min)
-
-16:05 – 17:05 | Escalando Elixir na Prática – Lívia Barbosa (60 min)
-
-17:05 – 18:00 | Encerramento, Q&A, networking, buffer final (55 min)
-
-
--->
 
 ## Índice
 - [Programação de Elixir Curitiba 2025](#programação-de-elixir-curitiba-2025)
   - 9h00 [Abertura](#abertura)
   - 9h15 [StoryTellerEx: Agentes Erlang e LLMs para narração de RPGs](#storytellerex-agentes-erlang-e-llms-para-narração-de-rpgs)
-  - [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
-  - [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
-  - [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
-  - [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
-  - [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
-  - [Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)](#escalando-elixir-na-prática-lições-da-manutenção-e-otimização-de-uma-base-monolítica-provisório)
-  - [Elixir em Produção na MeetRox (provisório)](#elixir-em-produção-na-meetrox-provisório)
+  - _10h00 Intervalo para café e networking_
+  - 10h30 [A visão de Joe Armstrong: resiliência no mundo real](#a-visão-de-joe-armstrong-resiliência-no-mundo-real)
+  - 11h20 [Experiências da Trio com o Elixir](#experiências-da-trio-com-o-elixir)
+  - _12h10 Intervalo para almoço_
+  - 14h00 [Erlang Distribuído: Escalabilidade e Tolerância a Falhas](#erlang-distribuído-escalabilidade-e-tolerância-a-falhas)
+  - 14h50 [SQLite em produção e OOM kills](#sqlite-em-produção-e-oom-kills)
+  - _15h30 Intervalo para café e networking_
+  - 16h00 [LFE - code is data is code (de novo)](#lfe---code-is-data-is-code-de-novo)
+  - 16h30 [Elixir em Produção na MeetRox](#elixir-em-produção-na-meetrox)
+  - 17h00 **Keynote:** [Elixir em Produção: Um Estudo de Caso](#elixir-em-produção-um-estudo-de-caso) - Livia Almeida Barbosa (Remote)
+  - 17h45 [Encerramento](#encerramento)
 
 ---
 
@@ -175,11 +148,33 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 
 --- 
 
-## Escalando Elixir na Prática: Lições da Manutenção e Otimização de uma Base Monolítica (provisório)
+
+## Elixir em Produção na MeetRox
+
+<img src="images/thiago-silveira.jpeg" alt="Thiago Zattar da Silveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+
+**Palestrante:** Thiago Zattar da Silveira
+
+**Site**: <https://www.linkedin.com/in/thiago-zattar-da-silveira/>
+
+**Episódio do Elixir em Foco**: [Elixir em produção na MeetRox, com Ana Dubas e Thiago Zattar da Silveira](https://open.spotify.com/episode/1YEORioUUESltu6B7DpgiQ)
+
+**Bio:**  Co-founder & CTO na MeetRox. Com trajetória ampla em diferentes stacks, já atuou com firmwares em C, backends em múltiplas linguagens e frontends desde a era do PHP. Adotou Elixir em produção em 2016 e segue desde então (sendo mais feliz).
+
+**Resumo:**  Vamos explorar como a MeetRox usa Elixir em produção, destacando alguns desafios de escala que enfrentamos ao ingerir e processar mais de 40 TB de reuniões por mês.
+
+**Duração:** 20 minutos
+
+
+--- 
+
+
+
+## Elixir em Produção: Um Estudo de Caso
 
 <img src="images/livia-barbosa.jpeg" alt="Livia Barbosa" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-**Palestrante:** (a confirmar) Livia Almeida Barbosa
+**Palestrante:** Livia Almeida Barbosa
 
 **Site**: <https://www.linkedin.com/in/liviaab>
 
@@ -190,8 +185,7 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 **Bio:**  Senior Backend Engineer I na Remote.  Graduada e Mestre em Ciência da Computação. Desenvolvedora full-stack com o objetivo de resolver novos desafios e sair da zona de conforto. Promotora de um ambiente de trabalho mais inclusivo e diversificado.
 
 
-
-**Resumo:** A definir
+**Resumo:** Já imaginou lidar com uma aplicação Elixir que tem mais de 20 mil arquivos? Vamos falar sobre o uso de Elixir em produção na Remote e entender como a equipe lida com uma codebase monolítica crescente. Abordaremos as práticas adotadas para lidar com desafios como tempo de compilação e a manutenção de uma suíte de testes com mais de 100 mil casos.
 
 **Duração:** 40 minutos
 
@@ -199,25 +193,16 @@ Atualmente, estou trabalhando em sistemas de metaprogramação para aproveitar o
 --- 
 
 
+## Encerramento
 
-## Elixir em Produção na MeetRox (provisório) 
+<img src="images/adolfo_neto.jpg" alt="Adolfo Neto" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
 
-<img src="images/thiago-silveira.jpeg" alt="Thiago Zattar da Silveira" width="180" style="border-radius: 50%; display: block; margin: 20px auto; border: 4px solid #667eea; box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);">
+**Responsável:** Adolfo Neto
 
-**Palestrante:** (a confirmar) Thiago Zattar da Silveira
+**Site**: <https://adolfont.github.io/>
 
-**Site**: <https://www.linkedin.com/in/thiago-zattar-da-silveira/>
+**Bio:** Adolfo Neto é professor na Universidade Tecnológica Federal do Paraná (UTFPR), onde atua no [Programa de Pós-Graduação em Computação Aplicada](https://www.utfpr.edu.br/cursos/programas-de-pos-graduacao/ppgca-ct). Com forte envolvimento na comunidade de desenvolvimento funcional e concorrente, ele é cofundador do podcast Elixir em Foco, voltado à divulgação da linguagem Elixir e do ecossistema BEAM no Brasil. Internacionalmente, Adolfo também contribui como líder do grupo de Educação, Treinamento e Adoção da [Erlang Ecosystem Foundation](https://bit.ly/3Jma95g), promovendo o ensino e a adoção de tecnologias como Erlang, Elixir e Gleam.
 
-**Episódio do Elixir em Foco**: [Elixir em produção na MeetRox, com Ana Dubas e Thiago Zattar da Silveira](https://open.spotify.com/episode/1YEORioUUESltu6B7DpgiQ)
+**Resumo:** Encerramento do evento.
 
-**Bio:**  Co-founder & CTO at MeetRox
-
-**Resumo:** A definir
-
-**Duração:** 20 minutos
-
-
---- 
-
-
-
+**Duração:** 5 minutos
