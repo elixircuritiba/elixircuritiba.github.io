@@ -7,7 +7,7 @@ TITULO_PAGINA="Fotos da Elixir Curitiba 2025"
 
 # Verifica se a pasta existe
 if [ ! -d "$PASTA_FOTOS" ]; then
-    echo "❌ Erro: A pasta '$PASTA_FOTOS' não existe!"
+    echo "Erro: A pasta '$PASTA_FOTOS' não existe!"
     exit 1
 fi
 
@@ -42,7 +42,7 @@ for img in "${imagens[@]}"; do
     
     # Adiciona ao Markdown
     echo "## $titulo" >> "$ARQUIVO_SAIDA"
-    echo "<img \"width=90%\" src=\"$img\" alt=\"$titulo\" />" >> "$ARQUIVO_SAIDA"
+    echo "<img src=\"$img\" alt=\"$titulo\" style=\"max-width: 90%; height: auto;\" />" >> "$ARQUIVO_SAIDA"
     echo "" >> "$ARQUIVO_SAIDA"
     
     ((contador++))
@@ -50,7 +50,7 @@ done
 
 # Resultado
 if [ $contador -eq 0 ]; then
-    echo "❌ Nenhuma imagem encontrada em '$PASTA_FOTOS'"
+    echo "Nenhuma imagem encontrada em '$PASTA_FOTOS'"
     rm "$ARQUIVO_SAIDA"
     exit 1
 else
