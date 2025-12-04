@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Elixir Curitiba"
-description: "Evento sobre Elixir e linguagens do ecossistema de Erlang em Curitiba"
 image: /images/elixircuritiba_elixiremfoco_logo.png
 ---
 
