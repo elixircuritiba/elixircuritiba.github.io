@@ -7,6 +7,7 @@ image: /images/elixircuritiba_elixiremfoco_logo.png
 
 <img src="/2025/images/ElixirCuritibaBrunaCalegari.png" alt="Elixir Curitiba poster (by bruna Calegari)" style="width:33%;">
 
+[ElxirConf BR - 20 & 21 de Maio de 2027 - Conferência em Curitiba & Online](https://www.elixirconf.com.br/)
 
 A Elixir Curitiba 2025 aconteceu no sábado 08/11/2025.
 
