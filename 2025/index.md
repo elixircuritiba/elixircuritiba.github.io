@@ -95,4 +95,4 @@ Elixir Curitiba é o espaço para **se conectar, aprender e crescer** com a comu
 
 [🇬🇧 This page in English](./2025/index_en)
 
-[Sobre a Elixir Curitiba 2024](./2024)
+[Sobre a Elixir Curitiba 2024](https://curitiba.elixiremfoco.com/2024)
